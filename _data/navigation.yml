@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Learn & Article"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
