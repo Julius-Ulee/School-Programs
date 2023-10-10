@@ -25,7 +25,7 @@ minimal_mistakes_skin: dirt
 comments:
   provider: "disqus"
   disqus:
-    shortname: "julius-ulee.github.io/School-Programs/"
+    shortname: "azrielbsi.github.io"
 search: true
 
 # Build settings
