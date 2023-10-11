@@ -3,6 +3,7 @@ title: "Logika dan Algoritma"
 author_profile: false
 excerpt: "Logika adalah ilmu penalaran benar dan salah, sementara algoritma adalah serangkaian langkah terstruktur untuk menyelesaikan masalah. Dalam pengembangan perangkat lunak, logika membentuk aturan, sementara algoritma mengimplementasikan langkah-langkah sesuai dengan aturan itu untuk mencapai tujuan. Keduanya penting dalam ilmu komputer dan pemrograman."
 breadcrumbs: true
+show_date: true
 header:
   teaser: "/assets/images/teaser/teaser-logika-algoritma.jpeg"
   overlay_image: /assets/images/header/logika-dan-algoritma.jpeg
