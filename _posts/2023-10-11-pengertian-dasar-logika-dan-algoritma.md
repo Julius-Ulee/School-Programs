@@ -22,7 +22,7 @@ comments: true
 
 ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/3a3ea5ac-7c9f-4791-97b3-6757eed7a7ec)
 
-# Pengertian Logika dan Algoritma
+# Pengertian Dasar Logika dan Algoritma
 
 **Logika** Diperkenalkan pertama kali oleh Aristoteles(384-322 SM).
 
