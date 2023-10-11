@@ -74,7 +74,7 @@ mangkok
 
 Selesai
 
-Note: contoh algoritma 1 & 2 menjelaskan bahwa suatu
+**Note:** contoh algoritma 1 & 2 menjelaskan bahwa suatu
 masalah dapat diselesaikan dengan beragam langkah dan
 urutan.
 {: .notice--info}
@@ -122,7 +122,6 @@ Selesai
 
 Contoh bahasa pemrograman adalah: Bahasa rakitan (assembly), Fortran, Cobol, Pascal, C, C++, Basic, Prolog, PHP, Java, Python.
 
-## Bahasa Pemograman Lanjutan
 Berdasarkan kedekatan bahasa pemrograman dikelompokkan menjadi 2 macam yaitu:
 1. Bahasa tingkat rendah
 Bahasa yang dirancang agar setiap instruksinya langsung dikerjakan oleh komputer, tanpa harus melalui penerjemah. Contoh: bahasa mesin (sekumpulan kode biner (0 dan 1))
@@ -138,3 +137,50 @@ Python adalah bahasa pemrograman tingkat tinggi Dirancang oleh Guido Van Rossum 
 Python banyak digunakan untuk membuat aplikasi program seperti: Program GUI (desktop), Aplikasi Mobile Web, Game, Hacking dan **Internet of Thing**(IoT).
 
 Python dianjurkan untuk pemula yang belum pernah coding
+
+# Bahasa Pemograman C++, java, dan Python
+Mencetak Kata **"Logika Algoritma"** 
+
+Sintak pada C++:
+```c++
+#include <iostream.h>
+main() {
+cout<<"Logika Algoritma"; }
+return 0
+```
+
+Sintak pada Java:
+```java
+Class LogikaalgoritmaApp
+{
+public static void main(string[] args)
+{
+system.out.println("Logika
+Algoritma"); } }
+```
+
+Sintak pada Python:
+```python
+print("Logika Algoritma")
+```
+
+# Tahapan Analisa Algoritma
+## 1. Bagaimana merencanakan suatu algoritma.
+Dengan menentukan model atau desain untuk menyelesaikan suatu masalah sebagai sebuah solusi, sehingga akan banyak terdapat variasi model yang diambil yang terbaik.
+## 2. Bagaimana menyatakan suatu algoritma
+Menentukan model algoritma yang digunakan untuk membuat barisan secara urut agar mendapatkan solusi masalah. Model algortima tersebut dapat dinyatakan dengan pseudocode atau flowchart.
+### a. Pseudocode (bahasa semu)
+Merupakan bentuk informal untuk mendeskripsikan algoritma yang mengikuti struktur bahasa pemrograman tertentu.
+### b. Flowchart (Diagram Alir)
+Penggambaran algoritma secara diagram yang menggambarkan alur susunan logika dari suatu masalah.
+
+**Tujuan pseudocode adalah:** Lebih mudah dibaca oleh
+manusia, lebih mudah dipahami dan lebih mudah dalam
+menuangkan ide/hasil pemikiran
+
+**Contoh :** Untuk menghitung Luas Segi tiga
+
+1. Masukan Nilai Alas
+2. Masukan Nilai Tinggi
+3. Hitung Luas =( Alas * Tinggi ) / 2
+4. Cetak Luas
