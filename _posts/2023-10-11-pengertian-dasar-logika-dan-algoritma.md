@@ -184,3 +184,22 @@ menuangkan ide/hasil pemikiran
 2. Masukan Nilai Tinggi
 3. Hitung Luas =( Alas * Tinggi ) / 2
 4. Cetak Luas
+
+# Tahapan Analisa Algoritma Lanjutan
+## 3. Bagaimana validitas suatu algoritma.
+Validitas suatu algoritma dengan didapatkan solusi sebagai penyelesaian dari masalah
+
+## 4. Bagaimana Menganalisa suatu Algoritma
+Analisa algoritma dengan melihat waktu tempuh dan jumlah memori yang digunakan
+
+## 5. Bagaimana Menguji Program dari suatu Algoritma.
+Algoritma tersebut diimplementasikan kedalam bahasa pemrograman misal: Python. Proses uji algoritma tersebut
+dengan dua tahap yaitu:
+a. Fase Debugging dan
+b. Fase Profilling
+
+### a. Fase Debugging
+yaitu fase dari proses program eksekusi yang akan melakukan koreksi terhadap kesalahan.
+
+### b. Fase Profilling
+yaitu fase yang akan bekerja jika program tersebut sudah benar (telah melewati fase debugging).
