@@ -40,6 +40,10 @@ timezone: Asia/jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_
 include:
   - _pages
 
+collections:
+  courses:
+    output: true
+    permalink: /:collection/:path/
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -105,6 +109,15 @@ defaults:
       comments: true
       share: true
       related: true
+  # _courses
+  - scope:
+      path: ""
+      type: courses
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
   # _pages
   - scope:
       path: "_pages"
