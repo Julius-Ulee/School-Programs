@@ -11,6 +11,7 @@ categories:
 tags:
   - Kabel
 toc: true
+toc_sticky: true
 ---
 
 Jaringan komputer adalah kumpulan perangkat keras dan perangkat lunak yang saling terhubung untuk berbagi data, sumber daya, dan informasi. Tujuan utama dari jaringan komputer adalah memungkinkan komunikasi dan kolaborasi antara berbagai perangkat, baik secara lokal (dalam satu lokasi fisik) maupun secara global (melalui Internet). Jaringan komputer memungkinkan pengguna untuk mengakses data dan layanan dari perangkat lain dalam jaringan, seperti komputer, server, printer, dan perangkat lainnya.
