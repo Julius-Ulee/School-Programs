@@ -114,6 +114,8 @@ defaults:
       path: ""
       type: algoritma
     values:
+      sidebar:
+        nav: "algoritma"
       layout: single
       author_profile: true
       comments: true
