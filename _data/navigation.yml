@@ -13,7 +13,7 @@ main:
     url: /about/
 
 algoritma:
-  - title: Getting Started
+  - title: Belajar Logika dan Algoritma Dasar 
     children:
       - title: "Logika Algoritma"
         url: /algoritma/logika-algoritma/
