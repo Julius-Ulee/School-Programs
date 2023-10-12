@@ -10,7 +10,7 @@ main:
   - title: "About"
     url: /about/
 
-sidebar:
+algoritma:
   - title: Getting Started
     children:
       - title: "Logika Algoritma"
