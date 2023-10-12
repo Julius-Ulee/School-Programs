@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Courses"
     url: /courses/
-  - title: "Education & Article"
+  - title: "Educations & Articles"
     url: /posts/
   - title: "Categories"
     url: /categories/
