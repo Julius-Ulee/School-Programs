@@ -9,3 +9,15 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+algoritma:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /algoritma/quick-start-guide/
+      - title: "Structure"
+        url: /algoritma/structure/
+      - title: "Installation"
+        url: /algoritma/installation/
+      - title: "Upgrading"
+        url: /algoritma/upgrading/
