@@ -17,3 +17,5 @@ algoritma:
     children:
       - title: "Logika Algoritma"
         url: /algoritma/logika-algoritma/
+      - title: "Konsep Algoritma & Konsep Data"
+        url: /algoritma/konsep-algoritma-data/
