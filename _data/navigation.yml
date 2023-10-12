@@ -14,7 +14,7 @@ algoritma:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
-        url: /algoritma/quick-start-guide/
+        url: /algoritma/logika-algoritma/
       - title: "Structure"
         url: /algoritma/structure/
       - title: "Installation"
