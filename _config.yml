@@ -41,7 +41,7 @@ include:
   - _pages
 
 collections:
-  courses:
+  algoritma:
     output: true
     permalink: /:collection/:path/
 # Exclude from processing.
@@ -109,10 +109,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _courses
+  # _algoritma
   - scope:
       path: ""
-      type: courses
+      type: algoritma
     values:
       layout: single
       author_profile: true
