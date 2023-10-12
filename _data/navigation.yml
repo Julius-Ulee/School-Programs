@@ -10,7 +10,7 @@ main:
   - title: "About"
     url: /about/
 
-algoritma:
+sidebar-sample:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
