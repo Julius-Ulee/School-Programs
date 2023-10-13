@@ -133,6 +133,7 @@ Adalah sebuah array yang berisi kumpulan tipe yang tidak sejenis.
 kata = ["Belajar", "Python", "di", "School Programs"]
 angka = [10, 50, 100, 1000]
 campur = ["Belajar", 100, 7.99, True]
+
 #cetak
 print(kata)
 print(angka)
@@ -152,6 +153,7 @@ Tipe data tuple hampir sama dengan list, perbedaanya anggotanya tidak bisa diuba
 kata = ("Belajar", "Python", "di", "School Programs")
 angka = (10, 50, 100, 1000)
 campur = ("Belajar", 100, 7.99, True)
+
 #cetak
 print(kata)
 print(angka)
@@ -296,9 +298,12 @@ Pada Pemrograman Python untuk menggabungkan nilai string pada program adalah seb
 #Penggabungan dua string
 kata1 = "Belajar Bahasa Pemrograman Python "
 kata2 = "Sangat Menyenangkan"
+
+# Menampilkan nilai dari kata1 dan kata2
 print(“Kata1: “,kata1)
 Print(“Kata2: “,kata2)
-#kata pertama dan kedua digabungkan
+
+# Menggabungkan kata1 dan kata2
 gabung = kata1 + kata2
 print(“Hasil Penggabungan kata1 dan kata2”)
 print(gabung)
@@ -328,8 +333,10 @@ Untuk mengetahui posisi karakter dalam kalimat.
 ```py
 #fungsi index
 kata = 'Aisah Zahra'
+
 #dimana posisi karakater Z
 print (kata.index('Z'))
+
 #dimana posisi karakter r
 print (kata.index('r'))
 ```
