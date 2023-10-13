@@ -81,7 +81,7 @@ Diketahui P=10, Q=15 dan R=5. Diberikan Algoritma P=Q,Q=R, mk Nilai P,Q,R sekara
 
    ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/9b2bb3b5-976f-496a-9a0e-54f562beef1e)
 
-   DESKRIPSI :
+DESKRIPSI :
 - Tuangkan larutan dari bejana A ke dalam bejana C.
 - Tuangkan larutan dari bejana B ke dalam bejana A.
 - Tuangkan larutan dari bejana C ke dalam bejana B.
