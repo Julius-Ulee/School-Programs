@@ -89,3 +89,167 @@ DESKRIPSI :
    ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/5a15370e-6ac5-4cae-b9da-147a14210a66)
 
 # Tipe Data Pada Python
+
+| Tipe Data | Keterangan |
+|:--------|:-------:|
+| Boolean   | Mempunyai dua nilai yaitu true bernilai 1 dan false bernilai 0   |
+| String   | Terdiri dari karakter/kalimat berupa huruf, angka, dll (diapit tanda " atau ')   |
+| Integer   | Menyatakan bilangan bulat   |
+| Float   | Menyatakan bilangan yang mempunyai koma   |
+| Complex   | Menyatakan pasangan angka real dan imajiner   |
+| List   | Data untaian yang menyimpan berbagai tipe data, isinya dapat berubah-ubah   |
+| Tuple   | Data untaian yang menyimpan berbagai tipe data, tapi isinya tidak dapat berubah-ubah   |
+| Hexadecimal   | Menyatakan bilangan dalam format heksa   |
+| Dictionary   | Data untaian yang menyimpan berbagai tipe data berupa pasangan penunjuk dan nilai
+{: rules="groups"}
+
+## Contoh tipe data pada python
+
+```py
+#tipe data Boolean
+print(True)
+#tipe data String
+print("Belajar Python menyenangkan...")
+#tipe data Integer
+print(20)
+#tipe data Float
+print(3.14)
+#tipe data Complex
+print(5j)
+```
+```yml
+Hasil Running:
+True
+Belajar Python menyenangkan...
+20
+3.14
+5j
+```
+
+# Tipe Data list
+Adalah sebuah array yang berisi kumpulan tipe yang tidak sejenis.
+```py
+#tipe data list
+kata = ["Belajar", "Python", "di", "School Programs"]
+angka = [10, 50, 100, 1000]
+campur = ["Belajar", 100, 7.99, True]
+#cetak
+print(kata)
+print(angka)
+print(campur)
+```
+```yml
+Hasil Running:
+['Belajar', 'Python', 'di', 'School Programs']
+[10, 50, 100, 1000]
+['Belajar', 100, 7.99, True]
+```
+
+# Tipe Data Tuple
+Tipe data tuple hampir sama dengan list, perbedaanya anggotanya tidak bisa diubah setelah dideklarasikan. Tuple menggunakan kurung biasa dan dipisahkan dengan koma untuk anggota.
+```py
+#tipe data tuple
+kata = ("Belajar", "Python", "di", "School Programs")
+angka = (10, 50, 100, 1000)
+campur = ("Belajar", 100, 7.99, True)
+#cetak
+print(kata)
+print(angka)
+print(campur)
+```
+```yml
+Hasil Running:
+('Belajar', 'Python', 'di', 'School Programs')
+(10, 50, 100, 1000)
+('Belajar', 100, 7.99, True)
+```
+
+# Tipe Data Dictionary
+Bentuk umum tipe data dictionary pada pemrograman python: Nama_variabel = {“ key1”: “value1”, “key2”: “value2”, “key3”: “value3” }
+```py
+#Tipe data dictionary
+data = {1:"Belajar",
+2: ["C++", "Python"],
+"Di Kampus": "School Programs",
+"menyerah" : False,
+"Tahun": 2021}
+print(data)
+```
+```yml
+Hasil Running:
+{1: 'Belajar', 2: ['C++', 'Python'], 'Di Kampus': 'School Programs', 'menyerah': False,
+'Tahun': 2021}
+```
+
+# Operator Aritmatika & Matematika
+
+| Operator | Keterangan |
+|:--------|:-------:|
+| +   | Penjumlahan  |
+| -   | Pengurangan  |
+| *   | Perkalian   |
+| /   | Pembagian   | 
+| %   | Modulus (sisa bagi) |   
+| **   | Pemangkatan |
+| //   | Pembagian dimana hasilnya bilangan bulat 
+{: rules="groups"}
+
+## Contoh Operator Aritmatika dan Matematika 
+
+```py
+>>> 1+2
+3
+>>> 8-12
+-4
+>>> 4*5
+20
+>>> 42/7
+6.0
+>>> 9%2
+1
+>>> 5**2
+25
+>>> 10//3
+3
+```
+
+# Operator Perbandiangan
+
+| Operator | Keterangan |
+|:--------|:-------:|
+| >   | Lebih besar dari   |
+| <   | Lebih kecil dari   |
+| ==   | Sama dengan   |
+| !=   | Tidak sama dengan   |
+| <=   | Lebih kecil sama dengan   |
+| >=   | Lebih besar sama dengan   
+{: rules="groups"}
+
+## Contoh Operator Perbandingan
+
+```py
+>>> 10>5
+True
+>>> 8<6
+False
+>>> 10==10
+True
+>>> 5!=6
+True
+>>> 6<=6
+True
+>>> 8>=3
+True
+```
+
+# Operator Bitwase
+
+| Operator | Keterangan |
+|:--------|:-------:|
+| &   | AND   |
+| |   | OR   |
+| ~   | NOT   |
+| ^   | XOR   |
+| <<   | Geser bit ke kiri   |
+| >>   | Geser bit ke kanan   
+{: rules="groups"}
