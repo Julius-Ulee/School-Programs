@@ -242,7 +242,7 @@ True
 True
 ```
 
-# Operator Bitwase
+# Operator Bitwise
 
 | Operator | Keterangan |
 |:--------|:-------:|
@@ -253,3 +253,88 @@ True
 | <<   | Geser bit ke kiri   |
 | >>   | Geser bit ke kanan   
 {: rules="groups"}
+
+# Operator AND
+Operator AND akan bernilai false (0) apabila nilai semua operandnya atau salah satu bernilai false (0), dan akan bernilai true (1) apabila kedua operand bernilai true (1).
+
+| Operand 1  | Operand 2  | Output |
+|:--------|:-------:|--------:|
+| 0   | 0   | 0   |
+| 0   | 1   | 0   |
+| 1   | 0   | 0   |
+| 1   | 1   | 1   
+{: rules="groups"}
+
+# Operator OR
+Operator Or akan menghasilkan output: Jika salah satu operand atau kedua operand bernilai true (1) akan menghasilkan output true (1), jika kedua operand bernilai false (0) maka akan menghasilkan output false (0).
+
+| Operand 1  | Operand 2  | Output |
+|:--------|:-------:|--------:|
+| 0   | 0   | 0   |
+| 0   | 1   | 1   |
+| 1   | 0   | 1   |
+| 1   | 1   | 1   
+{: rules="groups"}
+
+# Operator XOR
+Hasil operasi menggunakan operator XOR, yaitu:
+- Apabila bit yang dibandingkan nilainya berbeda misalnya 1 (true) dan 0 (false) maka outputnya adalah 1 (true).
+- Apabila bit yang dibandingkan nilainya sama misalnya 1 (true) dan 1(true) atau 0 (false) dan 0 (false) maka outputnya adalah 0 (false).
+
+| Operand 1  | Operand 2  | Output |
+|:--------|:-------:|--------:|
+| 0   | 0   | 0   |
+| 0   | 1   | 1   |
+| 1   | 0   | 1   |
+| 1   | 1   | 0   
+{: rules="groups"}
+
+# Menggabungkan Nilai string
+Pada Pemrograman Python untuk menggabungkan nilai string pada program adalah sebagai berikut:
+
+```py
+#Penggabungan dua string
+kata1 = "Belajar Bahasa Pemrograman Python "
+kata2 = "Sangat Menyenangkan"
+print(“Kata1: “,kata1)
+Print(“Kata2: “,kata2)
+#kata pertama dan kedua digabungkan
+gabung = kata1 + kata2
+print(“Hasil Penggabungan kata1 dan kata2”)
+print(gabung)
+```
+```yml
+Hasil Running:
+Belajar Bahasa Pemrograman Python Sangat Menyenangkan
+```
+
+# Fungsi Len
+Untuk menghitung jumlah karakter digunakan fungsi len()
+```py
+#Fungsi Len
+#Untuk Menghitung Panjang Karakter
+kata = "Belajar Bahasa Pemrograman Python"
+jumlah_karakter=len(kata)
+print(jumlah_karakter)
+```
+```yml
+Hasil Running:
+33
+```
+
+# Fungsi index()
+Untuk mengetahui posisi karakter dalam kalimat.
+
+```py
+#fungsi index
+kata = 'Aisah Zahra'
+#dimana posisi karakater Z
+print (kata.index('Z'))
+#dimana posisi karakter r
+print (kata.index('r'))
+```
+```yml
+Hasil Running:
+7
+10
+```
