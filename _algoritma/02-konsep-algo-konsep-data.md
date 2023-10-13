@@ -247,7 +247,7 @@ True
 | Operator | Keterangan |
 |:--------|:-------:|
 | &   | AND   |
-| |   | OR   |
+|  l  | OR   |
 | ~   | NOT   |
 | ^   | XOR   |
 | <<   | Geser bit ke kiri   |
