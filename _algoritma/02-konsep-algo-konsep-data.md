@@ -34,9 +34,9 @@ Arti : Bahwa Nilai P diberi harga Nilai Q Nilai P akan SAMA DENGAN nilai Q, & Ni
 Berfungsi mempertukarkan masing-masing isi Variabel sedemikian sehingga Nilai dari tiap Variabel akan berubah/bertukar.
 
 # Contoh Soal Algoritma
-### Soal
+## Soal
 Diketahui P=10, Q=15 dan R=5. Diberikan Algoritma P=Q,Q=R, mk Nilai P,Q,R sekarang?
-### Jawaban
+## Jawaban
 1. **P = Q:** Dalam langkah ini, nilai Q (15) akan disalin ke dalam variabel P. Sehingga, P sekarang bernilai 15.
 2. **Q = R:** Dalam langkah ini, nilai R (5) akan disalin ke dalam variabel Q. Sehingga, Q sekarang bernilai 5.
 
@@ -70,18 +70,22 @@ Diketahui P=10, Q=15 dan R=5. Diberikan Algoritma P=Q,Q=R, mk Nilai P,Q,R sekara
    Penjelasan: Budi tidak pernah mengerjakan tugas namun membuat tugas, kerjanya cuma bicara menjelaskan materi pelajaran dalam kelas sehingga Budi tidak akan pernah mengikuti ujian semester.
 
 4. Berapa banyaknya garis minimal untuk menutup seluruh titik-titik yang ada dibawah ini dengan syarat bahwa untuk membuat garis tersebut tidak boleh terputus :
-  ```
-   - * *
-     * *
-   - * * *
-     * * *
-     * * *
-   -   * *
-     * * * *
-     * * * *
-       * *
-   - * * * *
-     * * * *
-     * * * *
-     * * * *
-  ```
+   
+   ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/efb38600-5426-41f2-a51d-7e6a482a6b44)
+
+5. Algoritma Pertukaran Isi Bejana Untuk Latihan Uji Coba Pertukaran Mahasiswa Membawa 2 Gelas air yang berbeda warnanya dan 1 gelas Kosong
+
+   Diberikan dua buah bejana, A dan B; bejana A berisi larutan berwarna merah, bejana B berisi larutan berwarna biru
+
+   **Buatlah pseudocode** untuk menukarkan isi kedua bejana itu sedemikian sehingga bejana A berisi larutan berwarna biru dan bejana B berisi larutan berwarna merah.
+
+   ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/9b2bb3b5-976f-496a-9a0e-54f562beef1e)
+
+   DESKRIPSI :
+- Tuangkan larutan dari bejana A ke dalam bejana C.
+- Tuangkan larutan dari bejana B ke dalam bejana A.
+- Tuangkan larutan dari bejana C ke dalam bejana B.
+   
+   ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/5a15370e-6ac5-4cae-b9da-147a14210a66)
+
+# Tipe Data Pada Python
