@@ -33,10 +33,10 @@ Arti : Bahwa Nilai P diberi harga Nilai Q Nilai P akan SAMA DENGAN nilai Q, & Ni
 # Algoritma Pertukaran
 Berfungsi mempertukarkan masing-masing isi Variabel sedemikian sehingga Nilai dari tiap Variabel akan berubah/bertukar.
 
-# Contoh Soal Algoritma
-## Soal
+## 2. Contoh Soal Algoritma
+### Soal
 Diketahui P=10, Q=15 dan R=5. Diberikan Algoritma P=Q,Q=R, mk Nilai P,Q,R sekarang?
-## Jawaban
+### Jawaban
 1. **P = Q:** Dalam langkah ini, nilai Q (15) akan disalin ke dalam variabel P. Sehingga, P sekarang bernilai 15.
 2. **Q = R:** Dalam langkah ini, nilai R (5) akan disalin ke dalam variabel Q. Sehingga, Q sekarang bernilai 5.
 
