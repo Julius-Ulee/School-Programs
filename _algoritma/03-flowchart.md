@@ -49,6 +49,7 @@ Pada dasarnya suatu program komputer umumnya terdiri atas :
 
 ### Menggunakan Tabel Penyimpanan
 Tabel 1. Media Penyimpanan Sequence 1
+
 | Perintah | A | B | Output|
 |:--------|:-------:|:-------:|:-------:|
 | A <- 10 | 10 |  |  |
@@ -58,6 +59,7 @@ Tabel 1. Media Penyimpanan Sequence 1
 {: rules="groups"}
 
 Tabel 2. Media Penyimpanan Sequence 2
+
 | Perintah | X | Y | Z | Output|
 |:--------|:-------:|:-------:|:-------:|:-------:|
 | X <- 100 | 100 |  |  |  |
