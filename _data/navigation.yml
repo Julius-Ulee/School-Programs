@@ -23,3 +23,5 @@ algoritma:
         url: /algoritma/flowchart/
       - title: "Branching"
         url: /algoritma/branching/
+      - title: "Looping"
+        url: /algoritma/looping/
