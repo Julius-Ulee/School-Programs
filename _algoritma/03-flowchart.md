@@ -76,9 +76,9 @@ Tabel 2. Media Penyimpanan Sequence 2
   - Jumlahkan bilangan a dan b
   - Cetak hasil jumlahnya
 
-![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/474620bc-5a3d-4291-a73b-725820deed8c)
-
-![image-right](https://github.com/Julius-Ulee/School-Programs/assets/61336116/06cbf6c1-4252-4f36-abf8-aaf614dfa7c2){: .align-right}
+  ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/474620bc-5a3d-4291-a73b-725820deed8c)
 
 2. Struktur Branching Digunakan untuk program yang menggunakan pemilihan atau penyeleksian kondisi.(contoh menentukan bilangangenap/ganjil)
+   
+  ![image-right](https://github.com/Julius-Ulee/School-Programs/assets/61336116/06cbf6c1-4252-4f36-abf8-aaf614dfa7c2)
 
