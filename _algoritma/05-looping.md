@@ -332,6 +332,7 @@ Terima Kasih
 
 #### Program Python
 1. Membuat Program untuk mencetak bilangan genap 1 sampai 10:
+
 ```py
 for i in range(2,12,2):
     print(i)
@@ -345,6 +346,7 @@ for i in range(2,12,2):
 ```
 
 2. Membuat program menjumlahkan Bilangan 1 sampai 10
+   
 ```py
 jum = 0
 for i in range(10):
