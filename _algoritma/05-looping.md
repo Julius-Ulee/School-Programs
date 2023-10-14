@@ -123,7 +123,7 @@ Mula-mula inputkan nilai n = 8, kemudian x diberi nilai 2, setelah itu x dibandi
 
 ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/e558bc1c-9572-4508-bf0d-184d762af652)
 
-### Algoritma while untuk menampilkan angka 1 hingga 15
+#### Algoritma while untuk menampilkan angka 1 hingga 15
 ```
 Algoritma Perulangan_while
 {mencetak angka 1 hingga 15}
@@ -136,7 +136,7 @@ Deskripsi
 angka <- angka + 1
 ```
 
-### Program Python Mencetak bilangan 1 sampai 15
+#### Program Python Mencetak bilangan 1 sampai 15
 ```py
 # Perulangan While
 angka = 1
@@ -165,7 +165,7 @@ Bilangan ke-: 15
 Terima Kasih
 ```
 
-#### Program Python Mencetak bilangan Menurun 10 sampai 1
+##### Program Python Mencetak bilangan Menurun 10 sampai 1
 ```py
 # Perulangan While
 # Mencetak bilangan 10 sampai 1
@@ -189,7 +189,7 @@ print("Hasil Mencetak Bilangan Secara Menurun")
 Hasil Mencetak Bilangan Secara Menurun
 ```
 
-### Program Python Menentukan Bilangan Prima atau tidak
+#### Program Python Menentukan Bilangan Prima atau tidak
 ```py
 # Input bilangan
 bilangan = int(input("Masukkan Bilangan: "))
@@ -216,7 +216,7 @@ Masukkan Bilangan : 147
 3 kali 49 = 147
 ```
 
-### Perintah BREAK;
+#### Perintah BREAK;
 Berfungsi untuk keluar dari suatu loo[ for atau while bentuk umumnya adalah:
 ```yml
 ...
@@ -226,7 +226,7 @@ break
 ...
 ```
 
-#### Program Python Menggunakan Perintah Break
+##### Program Python Menggunakan Perintah Break
 ```py
 # Perintah break pada perulangan for
 # Program akan keluar setelah mencetak angka sampai 6 karena perintah break
@@ -248,7 +248,7 @@ for i in range(0, 10):
 **Note:** Looping akan dikerjakan terus sampai dipaksa keluar oleh instruksi break;
 {: .notice--info}
 
-### Perintah Continue:
+#### Perintah Continue:
 Fungsi Continue akan melakukan pengulangan mulai dari awal lagi.
 ```py
 # Penggunaan continue pada while
@@ -276,7 +276,7 @@ Masukkan bilangan dibawah 50: 25
 Pangkat dua dari bilangan ini adalah: 625
 Apakah Anda ingin mengulang kembali (y/n)? n
 ```
-### Nested Loop (Loop Bersarang)
+### 3. Nested Loop (Loop Bersarang)
 Bentuk Umum Nested While:
 ```
 While kondisi:
@@ -330,7 +330,7 @@ print("Terima Kasih")
 Terima Kasih
 ```
 
-### Program Python
+#### Program Python
 1. Membuat Program untuk mencetak bilangan genap 1 sampai 10:
 ```py
 for i in range(2,12,2):
