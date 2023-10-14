@@ -16,7 +16,6 @@ toc_sticky: true
 comments: true
 ---
 
-# Flowchart
 Adalah suatu diagram yang menggambarkan susunan logika suatu program Simbol simbol yang digunakan adalah sebagai berikut :
 
 | Simbol | Nama Simbol | Keterangan |
