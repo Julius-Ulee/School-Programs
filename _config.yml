@@ -97,6 +97,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mas.ulee"
+    - label: "Status"
+      icon: "fab fa-fw fa-signal"
+      url: "https://julius-ulee.github.io/Status/"
 
 defaults:
   # _posts
