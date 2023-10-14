@@ -16,7 +16,6 @@ toc_sticky: true
 comments: true
 ---
 
-# Struktur Branching
 Struktur Percabangan dalam pemrograman python, yaitu:
 1. Struktur Percabangan if
 2. Struktur Percabangan if else
