@@ -102,8 +102,7 @@ Else
 
 # Flowchart Perulangan
 Stuktur Looping Digunakan untuk program yang instruksinya akan dieksekusi berulang-ulang.
-![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/73133fd4-5c88-4018-becd-3853e053ba5a){: .align-left}
 
-![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/ffaad361-5d2e-4005-84d9-c6cdd0eb7ed9){: .align-right}
+![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/ffaad361-5d2e-4005-84d9-c6cdd0eb7ed9)
 
 
