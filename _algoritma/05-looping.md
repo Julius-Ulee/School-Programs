@@ -61,3 +61,17 @@ Banyak Data : 5
 ```
 **Note:** pada Python perulangan dengan fungsi Range dimulai dari 0
 {: .notice--info}
+
+Penjelasan algoritma: Mula-mula masukkan nilai n misal:5, kemudian terjadi perulangan dengan i=0 sampai n. Pengulangan dikerjakan selama kondisi bernilai true. Kemudian write (i) menghasilkan keluaran 0 dst, proses
+**diulang lagi sampai dengan i kurang dari nilai n.**
+
+| Perintah | n | i=0..n | i | Output|
+|:--------|:-------:|:-------:|:-------:|:-------:|
+| read(n) | 5 |  |  |  |
+| i=0: write(i) |  | true | 0 | 0 |
+| i=1: write(i) |  | true | 1 | 1 |
+| i=2: write(i) |  | true | 2 | 2 |
+| i=3: write(i) |  | true | 3 | 3 |
+| i=4: write(i) |  | true | 4 | 4 |
+| i=5: write(i) |  | false |  |  |
+{: rules="groups"}{: .align-right}
