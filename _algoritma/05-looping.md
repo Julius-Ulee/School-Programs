@@ -75,3 +75,64 @@ Penjelasan algoritma: Mula-mula masukkan nilai n misal:5, kemudian terjadi perul
 | i=4: write(i) |  | true | 4 | 4 |
 | i=5: write(i) |  | false |  |  |
 {: rules="groups"}
+
+### 2. Perulangan While
+Perulangan akan terus dilaksanakan selama kondisi bernilai True/benar
+
+**Bentuk Umur**
+```
+while kondisi:
+  statement(s)
+```
+
+**Flowchart Perulangan While**
+
+![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/12baa978-a265-493d-abce-2b6d2310f3d4)
+
+1. Ada instruksi yang berkaitan dengan kondisi sebelum masuk ke while sehingga kondisi ini benar (terpenuhi) dan pengulangan bisa dilaksanakan.
+2. Ada suatu instruksi di antara instruksi-instruksi yang diulang yang mengubah nilai variabel perulangan agar pada saat kondisi perulangan tidak terpenuhi sehingga perulangan berhenti.
+
+#### Menampilkan Deret Bilangan Genap
+```
+Algoritma deret
+Deklarasi
+  n, x : integer
+Begin
+    read(n)
+    x <- 2
+    while x <= n do
+        write(x)
+        x <- x + 2
+End
+```
+```py
+# Menampilkan Deret Bilangan Genap
+n = int(input('Masukkan Nilai N: '))
+x = 2
+while x <= n:
+    print(x, end=" ")
+    x = x + 2
+
+# Output
+Massukan Nilai N : 8
+2 4 6 8
+```
+
+Mula-mula inputkan nilai n = 8, kemudian x diberi nilai 2, setelah itu x dibandingkan dengan n. Jika (x<=n) bernilai benar maka x ditampilkan kemudian x ditambah 2 dan menghasilkan nilai x baru. Setelah itu data kembali keatas dan menguji (X<=N) bernilai benar, jika ya proses yang sama dgn sebelumnya dilakukan kembali. Demikian seterusnya sampai (x<=n) bernilai salah.
+
+#### Tabel Penyimpanan Deret
+
+![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/e558bc1c-9572-4508-bf0d-184d762af652)
+
+### Algoritma while untuk menampilkan angka 1 hingga 15
+```
+Algoritma Perulangan_while
+{mencetak angka 1 hingga 15}
+Deklarasi
+angka =1
+
+Deskripsi
+  while angka <= 15:
+    cetak angka
+angka <- angka + 1
+```
