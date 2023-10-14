@@ -16,7 +16,6 @@ toc_sticky: true
 comments: true
 ---
 
-# Looping 
 Instruksi pengulangan (repetition) adalah instruksi yang dapat mengulangi pelaksanaan sederetan instruksi lain berulangkali sesuai dengan persyaratan yang ditentukan. Struktur instruksi perulangan pada dasarnya terdiri atas:
 1. Kondisi perulangan. Suatu kondisi yang harus dipenuhi agar perulangan dapat terjadi
 2. Badan (body) perulangan. Deretan instruksi yang akan diulang-ulang pelaksanaannya
