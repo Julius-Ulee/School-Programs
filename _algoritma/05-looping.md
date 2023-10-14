@@ -74,4 +74,4 @@ Penjelasan algoritma: Mula-mula masukkan nilai n misal:5, kemudian terjadi perul
 | i=3: write(i) |  | true | 3 | 3 |
 | i=4: write(i) |  | true | 4 | 4 |
 | i=5: write(i) |  | false |  |  |
-{: rules="groups"}{: .align-right}
+{: rules="groups"}
