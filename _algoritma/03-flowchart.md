@@ -78,7 +78,24 @@ Tabel 2. Media Penyimpanan Sequence 2
 
   ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/474620bc-5a3d-4291-a73b-725820deed8c)
 
+# Menentukan Bilangan Genap/Ganjil
 2. Struktur Branching Digunakan untuk program yang menggunakan pemilihan atau penyeleksian kondisi.(contoh menentukan bilangangenap/ganjil)
    
   ![image-right](https://github.com/Julius-Ulee/School-Programs/assets/61336116/06cbf6c1-4252-4f36-abf8-aaf614dfa7c2)
 
+**Algoritmanya:**
+1. Masukkan sebuah bilangan
+2. Bagi bilangan tersebut dengan 2
+3. Jika sisa pembagian = 0 maka bilangan tersebut adalah bilangan genap
+4. Jika sisa pembagian = 1 maka bilangan tersebut adalah bilangan ganjil
+
+**Pseuducode:**
+```
+read bilangan
+If bil mod 2 = 0 then
+“Bilangan Genap”
+Else
+“Bilangan Ganjil”
+```
+
+![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/5bc8ee5f-3881-440a-95ed-3e934f77d65e)
