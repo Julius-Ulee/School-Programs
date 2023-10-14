@@ -83,7 +83,7 @@ urutan.
 # Karakteristik Algoritma
 1. Algoritma harus berhenti setelah mengerjakan
 sejumlah langkah terbatas.
-2. Setiap langah harus didefinisikan dengan tepat dan
+2. Setiap langkah harus didefinisikan dengan tepat dan
 tidak berarti dua (ambiguous).
 3. Algoritma memiliki nol atau lebih masukan (input).
 4. Algoritma mempunyai nol atau lebih keluaran
