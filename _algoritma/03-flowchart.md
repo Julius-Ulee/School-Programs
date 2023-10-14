@@ -71,10 +71,10 @@ Tabel 2. Media Penyimpanan Sequence 2
 
 # Menjumlahkan Dua Bilangan Positif
 1. Membuat flowchart untuk menjumlahkan dua bilangan bulat positip dan mencetak hasilnya Algoritmanya:
-  - Masukkan bilangan a
-  - Masukkan bilangan b
-  - Jumlahkan bilangan a dan b
-  - Cetak hasil jumlahnya
+- Masukkan bilangan a
+- Masukkan bilangan b
+- Jumlahkan bilangan a dan b
+- Cetak hasil jumlahnya
 
   ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/474620bc-5a3d-4291-a73b-725820deed8c)
 
