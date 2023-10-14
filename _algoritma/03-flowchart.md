@@ -2,7 +2,7 @@
 title: "Flowchart"
 permalink: /algoritma/flowchart/
 author_profile: false
-excerpt: "Flowchart."
+excerpt: "Diagram alir, bagan alir, atau bagan arus adalah sebuah jenis diagram yang mewakili algoritme, alir kerja atau proses, yang menampilkan langkah-langkah dalam bentuk simbol-simbol grafis, dan urutannya dihubungkan dengan panah. Diagram ini mewakili ilustrasi atau penggambaran penyelesaian masalah."
 show_date: true
 last_modified_at: 2023-10-12T17:00:00-01:00
 categories:
@@ -70,7 +70,7 @@ Tabel 2. Media Penyimpanan Sequence 2
 {: rules="groups"}
 
 # Menjumlahkan Dua Bilangan Positif
-1. Membuat flowchart untuk menjumlahkan dua bilangan bulat positip dan mencetak hasilnya Algoritmanya:
+Membuat flowchart untuk menjumlahkan dua bilangan bulat positip dan mencetak hasilnya Algoritmanya:
 - Masukkan bilangan a
 - Masukkan bilangan b
 - Jumlahkan bilangan a dan b
@@ -79,7 +79,7 @@ Tabel 2. Media Penyimpanan Sequence 2
   ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/474620bc-5a3d-4291-a73b-725820deed8c)
 
 # Menentukan Bilangan Genap/Ganjil
-2. Struktur Branching Digunakan untuk program yang menggunakan pemilihan atau penyeleksian kondisi.(contoh menentukan bilangangenap/ganjil)
+Struktur Branching Digunakan untuk program yang menggunakan pemilihan atau penyeleksian kondisi.(contoh menentukan bilangangenap/ganjil)
    
   ![image-right](https://github.com/Julius-Ulee/School-Programs/assets/61336116/06cbf6c1-4252-4f36-abf8-aaf614dfa7c2)
 
@@ -99,3 +99,11 @@ Else
 ```
 
 ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/5bc8ee5f-3881-440a-95ed-3e934f77d65e)
+
+# Flowchart Perulangan
+Stuktur Looping Digunakan untuk program yang instruksinya akan dieksekusi berulang-ulang.
+![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/73133fd4-5c88-4018-becd-3853e053ba5a){: .align-left}
+
+![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/ffaad361-5d2e-4005-84d9-c6cdd0eb7ed9){: .align-right}
+
+
