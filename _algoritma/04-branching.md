@@ -115,7 +115,7 @@ Masukan Sebuah Bilangan: 6
 Bilangan 6 adalah genap.
 ```
 
-## Struktur Percabangan if elif else
+## 3. Struktur Percabangan if elif else
 Digunakan untuk menguji lebih dari 2 kondisi, bila kondisi1 benar maka statement1 dikerjakan, bila salah menuju ke kondisi2 . Bila kondisi2 benar maka statement2 dikerjakan, jika salah maka statemen3 dikerjakan.
 
 **Bentuk umum:**
