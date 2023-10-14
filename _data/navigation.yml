@@ -21,3 +21,5 @@ algoritma:
         url: /algoritma/konsep-algoritma-data/
       - title: "Flowchart"
         url: /algoritma/flowchart/
+      - title: "branching"
+        url: /algoritma/branching/
