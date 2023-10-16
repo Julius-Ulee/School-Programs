@@ -75,11 +75,11 @@ FAKT (0) = 1 .............................................. (1)
 FAKT(N) = N * FAKT (N-1) .................................. (2)  
 
 Contoh:  
-FAKT(5) = 5 * FAKT(4)
-FAKT(4) = 4 * FAKT(3)
-FAKT(3) = 3 * FAKT(2)
-FAKT(2) = 2 * FAKT(1)
-FAKT(1) = 1 * FAKT(0)
+FAKT(5) = 5 * FAKT(4)  
+FAKT(4) = 4 * FAKT(3)  
+FAKT(3) = 3 * FAKT(2)  
+FAKT(2) = 2 * FAKT(1)  
+FAKT(1) = 1 * FAKT(0)  
 
 ## Perhitungan Faktorial Secara Rekursif
 Hitung 5!, maka dapat dilakukan secara rekursif dengan cara : 5! = 5 * 4!
@@ -119,13 +119,13 @@ Masukkan Bilangan : 6
 Deret Fibonancy : 0,1,1,2,3,5,8,13,.........
 
 Secara notasi pemrograman dapat ditulis sebagai :  
-Fibo (1) = 0 & Fibo (2) = 1 ........................................ (1)
-Fibo (N) = Fibo (N-1) + Fibo (N-2) ................................. (2)
+Fibo (1) = 0 & Fibo (2) = 1 ........................................ (1)  
+Fibo (N) = Fibo (N-1) + Fibo (N-2) ................................. (2)  
 
 Contoh:  
-Fibo(5) = Fibo(4) + Fibo(3)
-Fibo(4) = Fibo(3) + Fibo(2)
-Fibo(3) = Fibo(2) + Fibo(1)
+Fibo(5) = Fibo(4) + Fibo(3)  
+Fibo(4) = Fibo(3) + Fibo(2)  
+Fibo(3) = Fibo(2) + Fibo(1)  
 
 ## Program Deret Fibonancy
 ```py
@@ -157,3 +157,75 @@ Deret Fibonacci
 - Bilangan fibonancy adalah bilangan yang memiliki suku awal 0 dan 1, dan suku berikutnya adalah penjumlahan dari dua suku sebelumnya.
 - Fungsi fibonancy akan terus memanggil dirinya ketika (nilai n) bukan bernilai 0 atau 1 dengan melakukan proses penjumlahan (fibonacci(n-1) + fibonacci(n-2))
 
+# Konsep Menara Hanoi
+
+![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/f3244951-ad5c-478f-a868-f5a32be55da3)
+
+- Jika n=1, maka langsung pindahkan saja piringan dr tiang A ke tiang C & selesai.
+- Pindahkan n-1 piringan yg paling atas dr tiang A ke tiang B.
+- Pindahkan piringan ke n (piringan terakhir) dr tiang A ketiang C
+- Pindahkan n-1 piringan dari tiang B ke tiang C
+
+Langkah pemindahan tersebut diatas dapat diubah dengan notasi sebagai berikut:
+
+**Menara (n,asal,bantu,tujuan)**
+
+- Utk jml piringan n>1 dpt dibagi menjadi 3 notasi penyelesaian
+- Menara (n-1, Asal,Tujuan, Bantu);
+- Menara (n, Asal, Bantu, Tujuan); atau Asal  Tujuan;
+- Menara (n-1, Bantu, Asal, Tujuan);
+
+## Langkah-Langkah Pemindahan Piringan
+1. **MENARA(1, A, C, B)**  
+Pindahkan cakram dari tiang A ke tiang B: A → B
+
+2. **MENARA(2, A, B, C)**  
+Pindahkan dua cakram dari tiang A ke tiang C: A → C  
+Pindahkan satu cakram dari tiang A ke tiang B: A → B  
+
+3. **MENARA(1, B, A, C)**  
+Pindahkan cakram dari tiang B ke tiang C: B → C
+
+4. **MENARA(3, A, C, B)**  
+Pindahkan tiga cakram dari tiang A ke tiang B: A → B  
+Pindahkan satu cakram dari tiang A ke tiang C: A → C  
+Pindahkan dua cakram dari tiang A ke tiang B: A → B  
+
+5. **MENARA(1, C, B, A)**  
+Pindahkan cakram dari tiang C ke tiang A: C → A
+
+6. **MENARA(2, C, A, B)**  
+Pindahkan dua cakram dari tiang C ke tiang B: C → B  
+Pindahkan satu cakram dari tiang C ke tiang A: C → A
+
+7. **MENARA(1, A, C, B)**  
+Pindahkan cakram dari tiang A ke tiang B: A → B
+
+8. **MENARA(1, A, C, B)**  
+Pindahkan satu cakram dari tiang A ke tiang C: A → C
+
+9. **MENARA(4, A, B, C)**  
+Pindahkan empat cakram dari tiang A ke tiang B: A → B  
+Pindahkan satu cakram dari tiang B ke tiang C: B → C  
+Pindahkan dua cakram dari tiang B ke tiang A: B → A  
+Pindahkan satu cakram dari tiang C ke tiang B: C → B  
+Pindahkan tiga cakram dari tiang A ke tiang C: A → C  
+Pindahkan satu cakram dari tiang A ke tiang B: A → B  
+Pindahkan dua cakram dari tiang A ke tiang C: A → C  
+Pindahkan satu cakram dari tiang B ke tiang A: B → A  
+Pindahkan satu cakram dari tiang B ke tiang C: B → C  
+Pindahkan satu cakram dari tiang A ke tiang B: A → B  
+Pindahkan satu cakram dari tiang C ke tiang A: C → A  
+
+10. **MENARA(1, B, A, C)**  
+Pindahkan cakram dari tiang B ke tiang C: B → C
+
+Ilustrasi diatas menghasilkan 15 langkah penyelesaian dari permasalahan konsep menara Hanoi dgn jumlah piringan sebanyak 4 buah 18
+
+Untuk Video konsep menara hanoi dapat dilihat pada:  
+[Link](https://www.mathsisfun.com/games/towerofhanoi.html)
+
+**Rumus Langkah Pemindahan :**  
+| 2<sub>N</sub> - 1 |
+{: rules="groups"}
+**N = Jumlah Piringan**
