@@ -36,6 +36,6 @@ comments: true
 Menghitung 10 pangkat n dengan menggunakan konsep rekursif.
 
 Secara Notasi pemrograman dapat ditulis :
-```
+
 10<sup>0</sup> = 1 
-```
+
