@@ -5,7 +5,6 @@ author_profile: false
 excerpt: "Branching adalah membuat cabang dari repositori utama dan melanjutkan melakukan pekerjaan pada cabang yang baru tersebut tanpa perlu khawatir mengacaukan yang utama."
 show_date: true
 header:
-  teaser: "/assets/images/teaser/teaser-logika-algoritma.jpeg"
   overlay_image: /assets/images/header/logika-dan-algoritma.jpeg
   overlay_filter: 0.5
 last_modified_at: 2023-10-14T17:00:00-01:00
