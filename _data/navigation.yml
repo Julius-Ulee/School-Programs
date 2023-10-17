@@ -27,3 +27,5 @@ algoritma:
         url: /algoritma/looping/
       - title: "Struktur Rekursif"
         url: /algoritma/struktur-rekursif/
+      - title: "Array"
+        url: /algoritma/array/
