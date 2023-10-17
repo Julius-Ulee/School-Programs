@@ -71,7 +71,7 @@ Masukkan Nilai Y: 3
 N! = N x (N-1)! Untuk N > 0
 
 Secara notasi pemrograman dapat ditulis sebagai :  
-FAKT (0) = 1 .............................................. (1)
+FAKT (0) = 1 .............................................. (1)  
 FAKT(N) = N * FAKT (N-1) .................................. (2)  
 
 Contoh:  
@@ -226,6 +226,5 @@ Untuk Video konsep menara hanoi dapat dilihat pada:
 [Link](https://www.mathsisfun.com/games/towerofhanoi.html)
 
 **Rumus Langkah Pemindahan :**  
-| 2<sub>N</sub> - 1 |
-{: rules="groups"}
+2<sub>N</sub> - 1  
 **N = Jumlah Piringan**
