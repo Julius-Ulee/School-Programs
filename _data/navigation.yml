@@ -25,3 +25,5 @@ algoritma:
         url: /algoritma/branching/
       - title: "Looping"
         url: /algoritma/looping/
+      - title: "Struktur Rekursif"
+        url: /algoritma/struktur-rekursif/
