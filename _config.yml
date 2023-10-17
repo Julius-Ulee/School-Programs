@@ -41,7 +41,6 @@ include:
   - _pages
 
 collections:
-paginate: 5
   algoritma:
     output: true
     permalink: /:collection/:path/
