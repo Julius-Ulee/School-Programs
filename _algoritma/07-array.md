@@ -163,12 +163,14 @@ for i in range(4):
    0 0 0 4  
    Perintah pokok yang digunakan pada pengisian matriks A adalah :
 
-2. Diberikan algoritma sebagai berikut:  
+2. Diberikan algoritma sebagai berikut:
+   
 ```py
 nilai = [1, 2, 3, 4]
 
 for i in range(len(nilai)):
     nilai[i] = 2 * i + 1
     print(nilai[i])
-```  
+```
+
 Algoritma di atas akan menghasilkan nilai..
