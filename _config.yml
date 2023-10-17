@@ -41,6 +41,9 @@ include:
   - _pages
 
 collections:
+permalink: /:collections/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
   algoritma:
     output: true
     permalink: /:collection/:path/
