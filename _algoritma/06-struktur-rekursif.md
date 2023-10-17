@@ -161,18 +161,18 @@ Deret Fibonacci
 
 ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/f3244951-ad5c-478f-a868-f5a32be55da3)
 
-- Jika n=1, maka langsung pindahkan saja piringan dr tiang A ke tiang C & selesai.
-- Pindahkan n-1 piringan yg paling atas dr tiang A ke tiang B.
-- Pindahkan piringan ke n (piringan terakhir) dr tiang A ketiang C
+- Jika n=1, maka langsung pindahkan saja piringan dari tiang A ke tiang C & selesai.
+- Pindahkan n-1 piringan yg paling atas dari tiang A ke tiang B.
+- Pindahkan piringan ke n (piringan terakhir) dari tiang A ke tiang C
 - Pindahkan n-1 piringan dari tiang B ke tiang C
 
 Langkah pemindahan tersebut diatas dapat diubah dengan notasi sebagai berikut:
 
 **Menara (n,asal,bantu,tujuan)**
 
-- Utk jml piringan n>1 dpt dibagi menjadi 3 notasi penyelesaian
+- Untuk jumlah piringan n>1 dapat dibagi menjadi 3 notasi penyelesaian
 - Menara (n-1, Asal,Tujuan, Bantu);
-- Menara (n, Asal, Bantu, Tujuan); atau Asal  Tujuan;
+- Menara (n, Asal, Bantu, Tujuan); atau Asal -> Tujuan;
 - Menara (n-1, Bantu, Asal, Tujuan);
 
 ## Langkah-Langkah Pemindahan Piringan
@@ -220,7 +220,7 @@ Pindahkan satu cakram dari tiang C ke tiang A: C → A
 10. **MENARA(1, B, A, C)**  
 Pindahkan cakram dari tiang B ke tiang C: B → C
 
-Ilustrasi diatas menghasilkan 15 langkah penyelesaian dari permasalahan konsep menara Hanoi dgn jumlah piringan sebanyak 4 buah 18
+Ilustrasi diatas menghasilkan 15 langkah penyelesaian dari permasalahan konsep menara Hanoi dengan jumlah piringan sebanyak 4 buah 18
 
 Untuk Video konsep menara hanoi dapat dilihat pada:  
 [Link](https://www.mathsisfun.com/games/towerofhanoi.html)
