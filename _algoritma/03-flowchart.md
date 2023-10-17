@@ -4,6 +4,10 @@ permalink: /algoritma/flowchart/
 author_profile: false
 excerpt: "Diagram alir, bagan alir, atau bagan arus adalah sebuah jenis diagram yang mewakili algoritme, alir kerja atau proses, yang menampilkan langkah-langkah dalam bentuk simbol-simbol grafis, dan urutannya dihubungkan dengan panah. Diagram ini mewakili ilustrasi atau penggambaran penyelesaian masalah."
 show_date: true
+header:
+  teaser: "/assets/images/teaser/teaser-logika-algoritma.jpeg"
+  overlay_image: /assets/images/header/logika-dan-algoritma.jpeg
+  overlay_filter: 0.5
 last_modified_at: 2023-10-12T17:00:00-01:00
 categories:
   - Learn
