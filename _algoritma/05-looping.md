@@ -4,6 +4,10 @@ permalink: /algoritma/looping/
 author_profile: false
 excerpt: "Looping dalam pemrograman adalah sebuah konsep di mana sejumlah pernyataan atau instruksi dieksekusi berulang kali selama suatu kondisi terpenuhi. Dalam bahasa pemrograman apapun, termasuk dalam bahasa pemrograman Python atau JavaScript, looping dapat dilakukan dengan menggunakan beberapa jenis pernyataan kontrol seperti `for`, `while`, atau `do-while`."
 show_date: true
+header:
+  teaser: "/assets/images/teaser/teaser-logika-algoritma.jpeg"
+  overlay_image: /assets/images/header/logika-dan-algoritma.jpeg
+  overlay_filter: 0.5
 last_modified_at: 2023-10-14T17:00:00-01:00
 categories:
   - Learn
