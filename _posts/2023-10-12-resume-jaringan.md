@@ -5,6 +5,7 @@ header:
   teaser: "/assets/images/teaser/lan.jpg"
   overlay_image: /assets/images/header/jaringan.jpg
 last_modified_at: 2023-10-12T17:00:02-05:00
+breadcrumbs: true
 categories:
   - Network
   - Komputer
