@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: /School-Programs
 repository: Julius-Ulee/School-programs
 url: https://julius-ulee.github.io
+logo: "/assets/images/favicon.ico"
 twitter_username: mas.ulee
 github_username: Julius-Ulee
 minimal_mistakes_skin: dirt
