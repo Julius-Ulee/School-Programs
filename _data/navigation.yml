@@ -11,6 +11,8 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Status"
+    url: https://julius-ulee.github.io/Status/
 
 algoritma:
   - title: Chapters
