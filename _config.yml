@@ -27,7 +27,6 @@ comments:
   disqus:
     shortname: "julius-ulee-github-io"
 search: true
-baseurl: "/School-Programs"
 logo: "/assets/images/favicon.ico"
 
 # Build settings
