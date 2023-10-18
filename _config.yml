@@ -19,10 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: /School-Programs
-repository: Julius-Ulee/School-programs
-url: https://julius-ulee.github.io
-logo: "/assets/images/favicon.ico"
 twitter_username: mas.ulee
 github_username: Julius-Ulee
 minimal_mistakes_skin: dirt
@@ -31,6 +27,10 @@ comments:
   disqus:
     shortname: "julius-ulee-github-io"
 search: true
+baseurl: /School-Programs
+repository: Julius-Ulee/School-programs
+url: https://julius-ulee.github.io
+logo: "/assets/images/favicon.ico"
 
 # Build settings
 markdown: kramdown
