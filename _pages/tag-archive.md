@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
 sidebar:
   - title: "Tags"
-    image: "/assets/images/sidebar/category.png"
+    image: "/assets/images/sidebar/tags.png"
     image_alt: "tags"
     text: "Untuk mengkategorikan atau menandai konten agar lebih mudah diidentifikasi, dikelompokkan, dan ditemukan."
 ---
