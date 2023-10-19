@@ -8,12 +8,6 @@ header:
   overlay_image: /assets/images/header/logika-dan-algoritma.jpeg
   overlay_filter: 0.5
 last_modified_at: 2023-10-17T17:00:00-01:00
-categories:
-  - Learn
-tags:
-  - Logika
-  - Algoritma
-  - Materi
 toc: true
 toc_sticky: true
 comments: true
