@@ -16,7 +16,7 @@ toc_sticky: true
 show_date: true
 ---
 
-![image-center](/assets/images/teaser/teaser-html.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/teaser/teaser-html.png){: .align-center}
 
 HTML audio telah merevolusi cara kita berinteraksi dengan konten web, membuka pintu bagi pengalaman multimedia yang lebih dinamis.
 
