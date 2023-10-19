@@ -7,7 +7,7 @@ header:
 last_modified_at: 2023-10-19T17:00:02-05:00
 breadcrumbs: true
 categories:
-  - Article
+  - Learn
 tags:
   - Audio
   - HTML
