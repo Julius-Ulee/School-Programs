@@ -1,0 +1,40 @@
+
+---
+layout: splash
+permalink: /
+hidden: true
+author_profile: false
+title: "Achieving Learning Success: Commitment, Perseverance, and Consistency"
+header:
+  overlay_image: /assets/images/header/apple-eye.jpg
+  overlay_filter: 0.5
+  actions:
+      - label: "<i class="fas fa-info-circle"></i> About Me"
+        url: "/about/"
+      - label: "<i class="fas fa-graduation-cap"></i> Courses"
+        url: "/courses/"
+excerpt:
+  Our mission is to help users learn programming more easily.
+intro: 
+  - excerpt: 'We are a small team of passionate developers who constantly strive to create programming resources that are accurate and easy to understand. <br>We understand that creating textual content on the web to learn programming is not enough, To improve the learning experience of our users.'
+feature_row1:
+  - image_path: /assets/images/think.png
+    alt: "School Programs"
+    title: "School Programs"
+    excerpt: "Let us think of education as the means of developing our greatest abilities, because in each of us there is a private hope and dream which, fulfilled, can be translated into benefit for everyone and greater strength for our nation. (John F. Kennedy)"
+feature_row2:
+  - image_path: /assets/images/learn.png
+    alt: "Easy"
+    title: "Programming made easy"
+    excerpt: 'We focus on simplicity. Tutorials and programming examples are written in a language that is simple and easy for beginners to understand.'
+feature_row3:
+  - image_path: /assets/images/trustt.png
+    alt: "Content"
+    title: "Content You Can Trust"
+    excerpt: 'A group of dedicated experts are constantly working to create programming resources that are accurate and easy to understand.'
+feature_row4:
+  - image_path: /assets/images/program.png
+    alt: "Learn"
+    title: "Learn by Doing"
+    excerpt: 'The only way to learn to program is by writing code. We provide many complete examples so you can run and edit the code yourself.'
+---
