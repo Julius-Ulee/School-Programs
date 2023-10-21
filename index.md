@@ -38,10 +38,6 @@ feature_row4:
     excerpt: 'The only way to learn to program is by writing code. We provide many complete examples so you can run and edit the code yourself.'
 ---
 
-<audio muted>
-  <source src= "./tanah_air.mp3" type="audio/mp3">
-</audio>
-
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row1" type="center" %}
