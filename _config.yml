@@ -27,6 +27,9 @@ comments:
     shortname: "julius-ulee-github-io"
 search: true
 logo: "/assets/images/favicon.ico"
+url: https://julius-ulee.github.io/School-Programs
+baseurl: "/School-Programs"
+repository: "Julius-Ulee/School-Programs"
 
 # Build settings
 markdown: kramdown
