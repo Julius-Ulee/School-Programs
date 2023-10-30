@@ -17,7 +17,7 @@ show_date: true
 ---
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/teaser/teaser-html.png" alt="html">
+  <img src="/assets/images/teaser/teaser-html.png" alt="html">
 </figure> 
 
 
