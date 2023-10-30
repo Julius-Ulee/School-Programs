@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "<i class='fas fa-graduation-cap'></i> Courses"
+  - title: "Courses"
     url: /courses/
   - title: "Educations & Articles"
     url: /posts/
