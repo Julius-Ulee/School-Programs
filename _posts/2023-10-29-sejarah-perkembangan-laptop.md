@@ -5,7 +5,7 @@ excerpt: "Sejarah laptop awalnya ditandai dari kemunculan IBM Portable PC 5100 p
 breadcrumbs: true
 header:
   teaser: "/assets/images/teaser/teaser-sejarah-laptop.png"
-  overlay_image: /assets/images/header/apple-eye.jpg
+  overlay_image: /assets/images/teaser/teaser-sejarah-laptop.png
   overlay_filter: 0.5
 last_modified_at: 2023-10-29T:00:00-01:00
 categories:
