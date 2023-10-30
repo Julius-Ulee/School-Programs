@@ -19,6 +19,10 @@ comments: true
 show_date: true
 ---
 
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/teaser/teaser-sejarah-laptop.png" alt="sejarah">
+</figure> 
+
 Laptop memanfaatkan sumber daya dari baterai. Dan untuk pengisian daya baterainya digunakan adaptop A/C. Laptop biasanya mempunyai baterai dengan daya tahan sekitar 1-6 jam tergantung cara pemakaiannya, ukuran baterai dan juga spesifikasi dari laptopnya. Notebook atau computer notebook merupakan istilah lain dari laptop.
 
 Laptop dan komputer desktop pada umumnya mempunyai fungsi yang sama. Karena komponen-komponen penyusun yang ada di dalamnya sama, perbedaannya hanya di ukurannya. Pada laptop ukuran komponennya diperkecil agar lebih ringan, tidak mudah panas serta agar hemat daya.
