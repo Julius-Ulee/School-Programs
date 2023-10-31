@@ -1,5 +1,5 @@
 ---
-title: "Tamplates Post"
+title: "Tamplates Post School Program"
 author_profile: false
 excerpt: "Tamplate"
 breadcrumbs: true
