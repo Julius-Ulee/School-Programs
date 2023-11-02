@@ -2,6 +2,9 @@
 title: "Hewan Langka Komodo yang Berasal dari Indonesia"
 author_profile: false
 breadcrumbs: true
+header:
+  teaser: "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1636498252/carz52vffpdlxbsc7nhr.jpg"
+  overlay_filter: 0.5
 last_modified_at: 2023-11-03T:00:00-01:00
 categories:
   - Hewan
