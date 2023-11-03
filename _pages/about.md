@@ -15,9 +15,7 @@ title: "History of the school"
 
 At its core, we are a team of developers, and passionate students who are dedicated to helping users learn programming easily. Our mission is to provide accurate, practical, and easy-to-understand programming resources that enable our users to enter the job market with confidence.
 
-**Our Story**
-
-Our journey began with the realization that creating textual content on the web to learn programming is not enough. We recognize that most online tutorials, including our own, can appear as confusing walls of text, which can be a significant hurdle to learning.
+**Our Story**: Our journey began with the realization that creating textual content on the web to learn programming is not enough. We recognize that most online tutorials, including our own, can appear as confusing walls of text, which can be a significant hurdle to learning.
 
 About me
 ======
