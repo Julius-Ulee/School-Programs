@@ -10,12 +10,13 @@ title: "History of the school"
 **Our Mission is to Help Others Learn Programming More Easily**
 
 <figure style="width: 250px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/files/certificates/Java.png" alt="certificates">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/book.jpg" alt="certificates">
 </figure>
 
 At its core, we are a team of developers, and passionate students who are dedicated to helping users learn programming easily. Our mission is to provide accurate, practical, and easy-to-understand programming resources that enable our users to enter the job market with confidence.
 
 **Our Story**
+
 Our journey began with the realization that creating textual content on the web to learn programming is not enough. We recognize that most online tutorials, including our own, can appear as confusing walls of text, which can be a significant hurdle to learning.
 
 About me
