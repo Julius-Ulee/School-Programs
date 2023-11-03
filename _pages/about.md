@@ -46,10 +46,12 @@ This certificate was obtained when completing **Learn Java Basics** on June 23, 
 This certificate was obtained when completing **Learn Python Basics** on June 23, 2023
 
 <figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/files/certificates/Python-Beyond-Basics-Challanges" alt="certificates">
+  <img src="{{ site.url }}{{ site.baseurl }}/files/certificates/Python-Beyond-Basics-Challenges.png" alt="certificates">
 </figure>
 
 This certificate was obtained when completing **Python Beyond Basics Challanges** on June 23, 2023
+
+
 Free Badges
 ======
 
