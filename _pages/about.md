@@ -1,10 +1,22 @@
 ---
 permalink: /about/
-title: "About"
-toc: true
+title: "History of the school"
 ---
 
-<a href="https://holopin.io/@juliusulee"><img title="🦖 Holopin" src="https://holopin.me/juliusulee" alt="@juliusulee&#39;s Holopin board"></a>
+<figure style="width: 1200px" class="align-center">
+  <img src="https://holopin.me/juliusulee" alt="juliusulee" title="🦖 Holopin">
+</figure>
+
+**Our Mission is to Help Others Learn Programming More Easily**
+
+<figure class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/files/certificates/Java.png" alt="certificates">
+</figure>
+
+At its core, we are a team of developers, and passionate students who are dedicated to helping users learn programming easily. Our mission is to provide accurate, practical, and easy-to-understand programming resources that enable our users to enter the job market with confidence.
+
+**Our Story**
+Our journey began with the realization that creating textual content on the web to learn programming is not enough. We recognize that most online tutorials, including our own, can appear as confusing walls of text, which can be a significant hurdle to learning.
 
 About me
 ======
@@ -13,6 +25,13 @@ I was born and raised in [Jakarta](https://goo.gl/maps/Ht178nYrYi4pYYDN8). Jakar
 Education
 ======
 I am currently completing a Bachelor at [Bina Sarana Informatika University (UBSI)](https://goo.gl/maps/SeYPofUEBUFnR2xr6) to earn an S.Kom degree, previously I studied at [SMK Harapan Bangsa](https://goo.gl/maps/jZExCzgEMXzYFkgy7) high school in West Java province and majored in Computer Network Engineering.
+
+Certificates
+======
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-300x200.jpg" alt="">
+  <figcaption>Feels good to be right all the time.</figcaption>
+</figure>
 
 Free Badges
 ======
