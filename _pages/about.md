@@ -17,15 +17,11 @@ At its core, we are a team of developers, and passionate students who are dedica
 
 **Our Story**: Our journey began with the realization that creating textual content on the web to learn programming is not enough. We recognize that most online tutorials, including our own, can appear as confusing walls of text, which can be a significant hurdle to learning.
 
-**About me**
-
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/profile/ulee.jpg" alt="profile">
 </figure>
 
 I was born and raised in [Jakarta](https://goo.gl/maps/Ht178nYrYi4pYYDN8). Jakarta is located in the province of West Java, Indonesia, and is famous for its rich history, including as the capital of Sunda Kalapa and being the port center of the Padjadjaran kingdom. I look forward to seeing you in my hometown.
-
-**Education**
 
 I am currently completing a Bachelor at [Bina Sarana Informatika University (UBSI)](https://goo.gl/maps/SeYPofUEBUFnR2xr6) to earn an S.Kom degree, previously I studied at [SMK Harapan Bangsa](https://goo.gl/maps/jZExCzgEMXzYFkgy7) high school in West Java province and majored in Computer Network Engineering.
 
