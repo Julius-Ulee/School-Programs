@@ -3,13 +3,13 @@ permalink: /about/
 title: "History of the school"
 ---
 
-<figure style="width: 500px" class="align-center">
+<figure class="align-center">
   <img src="https://holopin.me/juliusulee" alt="juliusulee" title="🦖 Holopin">
 </figure>
 
 **Our Mission is to Help Others Learn Programming More Easily**
 
-<figure style="width: 300px" class="align-left">
+<figure style="width: 250px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/files/certificates/Java.png" alt="certificates">
 </figure>
 
