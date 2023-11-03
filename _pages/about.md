@@ -50,13 +50,3 @@ This certificate was obtained when completing **[Learn Python Basics](https://ap
 </figure>
 
 This certificate was obtained when completing **[Python Beyond Basics Challanges](https://app.programiz.pro/certificates/detail/DD318BBD2468)** on June 23, 2023
-
-
-Free Badges
-======
-
-<a href="https://holopin.io/collect/clioh106o40260fmmpqmskemi"><img title="🦖 Secret" src="https://github.com/Julius-Ulee/School-Programs/assets/61336116/24ad6b1e-d9a5-4bdc-8888-bf27ab07bf80" height="80" width="80" alt="@juliusulee&#39;s Holopin board"></a><br>
-Expert in raising chickens and making money selling chickens can also sell eggs with high quality.
-
-<a href="https://holopin.io/collect/cll0hzflb36000fmjkv6mqc0a"><img title="🦖 Secret" src="https://github.com/Julius-Ulee/School-Programs/assets/61336116/4ecbc731-b46d-468e-a98c-f4f88f16f672" height="80" width="80" alt="@juliusulee&#39;s Holopin board"></a><br>
-The display is frightening and mysterious, showing that death is something that cannot be avoided and shrouds mystery for many people.
