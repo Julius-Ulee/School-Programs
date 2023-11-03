@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "History of the school"
+title: "History of the School"
 ---
 
 <figure class="align-center">
@@ -10,7 +10,7 @@ title: "History of the school"
 **Our Mission is to Help Others Learn Programming More Easily**
 
 <figure style="width: 250px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/book.jpg" alt="certificates">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/book.jpg" alt="profile">
 </figure>
 
 At its core, we are a team of developers, and passionate students who are dedicated to helping users learn programming easily. Our mission is to provide accurate, practical, and easy-to-understand programming resources that enable our users to enter the job market with confidence.
@@ -21,9 +21,16 @@ At its core, we are a team of developers, and passionate students who are dedica
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/profile/ulee.jpg" alt="profile">
 </figure>
 
-I was born and raised in [Jakarta](https://goo.gl/maps/Ht178nYrYi4pYYDN8). Jakarta is located in the province of West Java, Indonesia, and is famous for its rich history, including as the capital of Sunda Kalapa and being the port center of the Padjadjaran kingdom. I look forward to seeing you in my hometown.
+I was born and raised in **[Jakarta](https://goo.gl/maps/Ht178nYrYi4pYYDN8)**. Jakarta is located in the province of West Java, Indonesia, and is famous for its rich history, including as the capital of Sunda Kalapa and being the port center of the Padjadjaran kingdom. I look forward to seeing you in my hometown.
 
-I am currently completing a Bachelor at [Bina Sarana Informatika University (UBSI)](https://goo.gl/maps/SeYPofUEBUFnR2xr6) to earn an S.Kom degree, previously I studied at [SMK Harapan Bangsa](https://goo.gl/maps/jZExCzgEMXzYFkgy7) high school in West Java province and majored in Computer Network Engineering.
+I am currently completing a Bachelor at **[Bina Sarana Informatika University (UBSI)](https://goo.gl/maps/SeYPofUEBUFnR2xr6)** to earn an S.SI degree, previously I studied at **[SMK Harapan Bangsa](https://goo.gl/maps/jZExCzgEMXzYFkgy7)** high school in West Java province and majored in Computer Network Engineering.
+
+**Holopin Award** This certificate is obtained because it has successfully completed the learning and exams given by **[Programiz](https://programiz.pro/)**
+
+<figure style="width: 250px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/files/certificates/Java.png" alt="certificates">
+</figure>
+
 
 Free Badges
 ======
