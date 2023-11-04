@@ -27,25 +27,25 @@ I am currently completing a Bachelor at **[Bina Sarana Informatika University (U
 
 **Holopin Award** This certificate is obtained because it has successfully completed the learning and exams given by **[Programiz](https://programiz.pro/)**
 
-<figure style="width: 300px">
+<figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/files/certificates/Java.png" alt="certificates">
 </figure>
 
 This certificate was obtained when completing **[Java Interview Questions](https://app.programiz.pro/certificates/detail/7484B4824BAA)** on June 23, 2023
 
-<figure style="width: 300px">
+<figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/files/certificates/Learn-Java-Basics.png" alt="certificates">
 </figure>
 
 This certificate was obtained when completing **[Learn Java Basics](https://app.programiz.pro/certificates/detail/F5774D799F91)** on June 23, 2023
 
-<figure style="width: 300px">
+<figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/files/certificates/Learn-Python-Basics.png" alt="certificates">
 </figure>
 
 This certificate was obtained when completing **[Learn Python Basics](https://app.programiz.pro/certificates/detail/AB91DA184462)** on June 23, 2023
 
-<figure style="width: 300px">
+<figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/files/certificates/Python-Beyond-Basics-Challenges.png" alt="certificates">
 </figure>
 
