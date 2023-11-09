@@ -11,8 +11,6 @@ categories:
 tags:
   - Vlan
   - Cisco
-toc: true
-toc_sticky: true
 comments: true
 show_date: true
 ---
