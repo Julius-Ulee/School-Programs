@@ -17,7 +17,7 @@ comments: true
 show_date: true
 ---
 
-![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/2d303b94-0550-4337-8810-cfa1e7dd2ee0)
+![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/2d303b94-0550-4337-8810-cfa1e7dd2ee0){: .align-center}
 
 
 # Pengertian K3LH
