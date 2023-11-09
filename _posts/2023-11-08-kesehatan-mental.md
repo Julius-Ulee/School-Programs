@@ -7,10 +7,9 @@ header:
   teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/ff22d6ba-e04a-4540-a2d1-86722315bf65"
 last_modified_at: 2023-11-08T:00:00-01:00
 categories:
-  - health
+  - Health
 tags:
-  - kesehatan
-  - 
+  - Mental
 toc: true
 toc_sticky: true
 comments: true
