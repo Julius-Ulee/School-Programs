@@ -8,6 +8,7 @@ header:
 last_modified_at: 2023-11-09T:00:00-01:00
 categories:
   - Article
+  - Learn
 tags:
   - Vlan
   - Cisco
