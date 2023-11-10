@@ -1,7 +1,7 @@
 ---
 title: "Pentingnya Penerapan K3LH"
 author_profile: false
-excerpt: ""
+excerpt: "K3LH (Kesehatan, Keselamatan, Kerja dan Lingkungan Hidup) adalah Program Kesehatan dan Keselamatan Kerja dan Lingkungan Hidup pada suatu perusahaan atau instansi lain yang memiliki banyak pekerja atau karyawan."
 breadcrumbs: true
 header:
   teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/d7bf1c35-4ce6-4b83-9335-e4a5a3934b31"
