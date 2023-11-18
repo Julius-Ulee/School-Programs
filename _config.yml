@@ -40,6 +40,8 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+google_site_verification : "OVIOPfdQXPFRKjaAzqQIR1Zyj__V-Lux4gRk7v8O"
+
 include:
   - _pages
 
