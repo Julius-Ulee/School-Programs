@@ -4,7 +4,7 @@ author_profile: false
 excerpt: "Enhanced Interior Gateway Routing Protocol atau disingkat EIGRP adalah salah satu routing protocol yang digunakan untuk menghubungkan jaringan antar router secara dinamik."
 breadcrumbs: true
 header:
-  teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/357dd806-3e79-4eb9-83f0-21415144cda8"
+  teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/f3598c18-ccf0-4700-8d77-f958aa9bb436"
 last_modified_at: 2023-11-19T:00:00-01:00
 categories:
   - Computer
