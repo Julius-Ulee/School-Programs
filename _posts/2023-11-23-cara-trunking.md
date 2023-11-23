@@ -1,11 +1,11 @@
 ---
-title: "Cara Trunking VLAN"
+title: "Cara Trunking VLAN Cisco Packet Tracer"
 author_profile: false
 excerpt: "Trunking berfungsi melewatkan traffic VLAN dari switch yang berbeda. Antara switch lantai 1 dan lantai 2 terhubung. PC1, PC2, PC5 dan PC6 masuk dalam VLAN 10 sedang PC3, PC4, PC5 dan PC6 masuk dalam VLAN 20. "
 breadcrumbs: true
 header:
   teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/af924502-89f0-4e48-81a2-72c653453fd3"
-last_modified_at: 2023-11-21T:00:00-01:00
+last_modified_at: 2023-11-23T:00:00-01:00
 categories:
   - Computer
 tags:
