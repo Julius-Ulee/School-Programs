@@ -5,7 +5,7 @@ excerpt: "VLAN (Virtual Local Area Network) merupakan interface yang digunakan u
 breadcrumbs: true
 header:
   teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/33bcb860-0670-4a23-8dae-d5d7f420f615"
-last_modified_at: 2023-11-16T:00:00-01:00
+last_modified_at: 2023-11-23T:00:00-01:00
 categories:
   - Computer
 tags:
@@ -42,7 +42,7 @@ Oke langsung saja ke langkah-langkahnya, disini yang paling pertama kita harus m
 # Setting Switch
 Klik dua kali switch lalu pilih CLI:
 
-```
+```yml
 Switch>en #enable
 Switch#show vlan #untuk melihat hasil konfigurasi vlan
 Switch#conf t #untuk memuli konfiggurasi
@@ -58,7 +58,7 @@ Switch#show vlan
 
 Selanjutnya adalah memisahkan segmen vlan 9 dan vlan 10 agar tidak bisa saling terhubung, agar jaringan hanya dapat terhubung dalam satu vlan saja dan tidak bisa ke vlan lain, lanjutkan dengan perintah CLI dibawah ini:
 
-```
+```yml
 Switch#conf t
 Switch (config)#interface fa0/1 #untuk config fa0/1 (pc 1) agar masuk ke vlan 9
 Switch (config-if)#switchport mode access
@@ -73,7 +73,7 @@ Switch#show vlan #untuk melihat hasilnya
 
 Lakukan perintah tersebut pada sisi lainnya:
 
-```
+```yml
 Switch (config)#interface fa0/3 #untuk config fa0/3 (pc 3) agar masuk ke vlan 10
 Switch (config-if)#switchport mode access
 Switch (config-if)#switchport access vlan 10
