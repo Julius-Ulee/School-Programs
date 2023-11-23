@@ -5,7 +5,7 @@ excerpt: "VOIP atau kepanjangan dari Voice Over Internet Protocol adalah teknolo
 breadcrumbs: true
 header:
   teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/93cf38a8-c32b-42a7-98d8-d232f10d8201"
-last_modified_at: 2023-11-18T:00:00-01:00
+last_modified_at: 2023-11-23T:00:00-01:00
 categories:
   - Computer
 tags:
@@ -32,7 +32,7 @@ Buatlah dulu Topologi seperti gambar di atas. Simulasi kali ini menggunakan 1 bu
 # 2. Setting Router
 Berikan IP address kepada Router dengan perintah CLI sebagai berikut :
 
-```
+```yml
 R1>enable
 R1#configure terminal
 R1(config)#interface FastEthernet0/0
@@ -44,7 +44,7 @@ R1(config-subif)#ip address 192.168.1.1 255.255.255.0
 
 Setelah Router memiliki IP address, langkah selanjutnya adalah menjadikan Router sebagai DHCP server sehingga nantinya IP Phone bisa memiliki IP address secara otomatis. Gunakan perintah CLI seperti di bawah ini :
 
-```
+```yml
 R1(config-subif)#ip dhcp pool iptelepon
 R1(dhcp-config)#network 192.168.1.0 255.255.255.0
 R1(dhcp-config)#default-router 192.168.1.1
@@ -53,7 +53,7 @@ R1(dhcp-config)#option 150 ip 192.168.1.1
 
 TIndakan berikutnya adalah pengaturan Telephony-service agar Router bisa melakukan pelayanan telepon. Perintah CLI untuk hal tersebut adalah :
 
-```
+```yml
 R1(dhcp-config)#telephony-service
 R1(config-telephony)#ip source-address 192.168.1.1 port 2000
 R1(config-telephony)#max-dn 2
@@ -70,7 +70,7 @@ Catatan :angka dibelakang “max-dn” dan “max-ephone” menyesuaikan jumlah 
 # 3. Setting Switch
 Jaringan VOIP biasanya membutuhkan manageable switch atau switch yang memiliki sistem operasi dan bisa dikonfigurasikan. Berikut ini perintah CLI agar switch bisa digunakan di jaringan VOIP :
 
-```
+```yml
 SW1>enable
 SW1#configure terminal
 SW1(config)#vlan 10
