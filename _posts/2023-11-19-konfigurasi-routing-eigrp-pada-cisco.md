@@ -5,7 +5,7 @@ excerpt: "Enhanced Interior Gateway Routing Protocol atau disingkat EIGRP adalah
 breadcrumbs: true
 header:
   teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/f3598c18-ccf0-4700-8d77-f958aa9bb436"
-last_modified_at: 2023-11-19T:00:00-01:00
+last_modified_at: 2023-11-23T:00:00-01:00
 categories:
   - Computer
 tags:
@@ -86,7 +86,7 @@ Dan berikut adalah konfigurasi dari masing-masing router di atas,
 
 **Konfigurasi R1 :**
 
-```
+```yml
 //masuk ke mode konfigurasi
 Router>enable 
 Router#configure terminal
@@ -126,7 +126,7 @@ R1(config)#
 
 **Konfigurasi R2 :**
 
-```
+```yml
 //masuk ke mode konfigurasi
 Router>enable 
 Router#configure terminal 
@@ -166,7 +166,7 @@ R2(config)#
 
 **Konfigurasi R3 :**
 
-```
+```yml
 //masuk ke mode konfigurasi
 Router>enable 
 Router#configure terminal 
@@ -212,13 +212,13 @@ Setelah konfigurasi semua perangkat telah selesai, selanjutnya cek apakah masing
 
 Kita juga dapat melakukan verifikasi menggunakan perintah-perintah di bawah ini :
 
-```
+```yml
 show ip route show ip route eigrp
 ```
 
 Contoh verifikasi routing pada R1 :
 
-```
+```yml
 R1#show ip route
 Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP
 D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area
