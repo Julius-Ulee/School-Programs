@@ -24,7 +24,4 @@ Laravel adalah salah satu framework PHP paling besar dan paling banyak digunakan
 
 Laravel pertama kali dirilis pada tahun 2011 dan telah tumbuh pesat dan semakin besar dalam beberapa tahun terakhir. 
 
-{% include video id="-HqAMb6kqlLs" provider="youtube" %}
-
-**Full Video**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HqAMb6kqlLs?si=BGRuU5WgthUJS977" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
