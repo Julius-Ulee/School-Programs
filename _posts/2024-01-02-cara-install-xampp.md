@@ -54,23 +54,23 @@ Download XAMPP terbaru melalui website Apache Friends [berikut ini](https://www.
 
 5. Pada tampilan selanjutnya akan muncul pilihan mengenai komponen mana dari XAMPP yang ingin dan tidak ingin Anda instal. Beberapa pilihan seperti Apache dan PHP adalah bagian penting untuk menjalankan website dan akan otomatis diinstal. Silakan centang MySQL dan phpMyAdmin, untuk pilihan lainnya biarkan saja.
 
-![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/11293c07-2ce8-491b-ad6c-c77b27c28559)
+   ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/11293c07-2ce8-491b-ad6c-c77b27c28559)
 
 4. Berikutnya silakan pilih folder tujuan dimana XAMPP ingin Anda instal. Contohnya di direktori C:\xampp.
 
-![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/4f2fa143-f9f1-4820-93c9-5a88a5dbc235)
+   ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/4f2fa143-f9f1-4820-93c9-5a88a5dbc235)
 
 5. Pada halaman selanjutnya, akan ada pilihan apakah Anda ingin menginstal Bitnami untuk XAMPP, dimana nantinya dapat Anda gunakan untuk install WordPress, Drupal, dan Joomla secara otomatis.
 
-![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/c79784ad-273c-4a70-ac5f-0b77c6e89c4f)
+   ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/c79784ad-273c-4a70-ac5f-0b77c6e89c4f)
 
 6. Pada langkah ini proses instalasi XAMPP akan dimulai. Silakan klik tombol **Next**.
 
-![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/a497c576-5ed8-413f-9d70-ee29ef294d89)
+   ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/a497c576-5ed8-413f-9d70-ee29ef294d89)
 
 7. Setelah berhasil diinstal, akan muncul notifikasi untuk langsung menjalankan control panel. Silakan klik **Finish**.
 
-![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/35bf4441-2c84-48ff-897b-47ae1c5a83aa)
+   ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/35bf4441-2c84-48ff-897b-47ae1c5a83aa)
 
 ## 3. Jalankan XAMPP
 Silakan buka aplikasi XAMPP kemudian klik tombol Start pada Apache dan MySQL. Jika berhasil dijalankan, Apache dan MySQL akan berwarna hijau seperti gambar di bawah ini.
