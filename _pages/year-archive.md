@@ -8,5 +8,7 @@ header:
   overlay_filter: 0.5
 sidebar:
   - title: "Articles"
+    image: "/assets/images/sidebar/literature.webp"
+    image_alt: "literature"
     text: "Artikel bertujuan memberikan informasi yang berguna kepada pembaca. Informasi tersebut bisa berupa berita terbaru, pengetahuan tentang suatu topik, panduan, atau analisis."
 ---
