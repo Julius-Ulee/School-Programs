@@ -1,5 +1,5 @@
 ---
-title: "Cara Instal XAMPP di Windows"
+title: "Cara Install XAMPP di Windows"
 author_profile: false
 excerpt: "Apakah Anda ingin membuat website secara lokal di komputer Anda sendiri? Gampang, Anda hanya perlu belajar cara instal XAMPP di windows."
 breadcrumbs: true
@@ -49,10 +49,10 @@ Download XAMPP terbaru melalui website Apache Friends [berikut ini](https://www.
 
 1. Lakukan instalasi setelah Anda selesai mengunduh. Selama proses instalasi mungkin Anda akan melihat pesan yang menanyakan apakah Anda yakin akan menginstalnya. Silakan tekan **Yes** untuk melanjutkan instalasi.
 2. Klik tombol **Next**.
+  
+   ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/992723ec-3396-4d9d-a79b-feb444fa3529)
 
-![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/992723ec-3396-4d9d-a79b-feb444fa3529)
-
-3. Pada tampilan selanjutnya akan muncul pilihan mengenai komponen mana dari XAMPP yang ingin dan tidak ingin Anda instal. Beberapa pilihan seperti Apache dan PHP adalah bagian penting untuk menjalankan website dan akan otomatis diinstal. Silakan centang MySQL dan phpMyAdmin, untuk pilihan lainnya biarkan saja.
+5. Pada tampilan selanjutnya akan muncul pilihan mengenai komponen mana dari XAMPP yang ingin dan tidak ingin Anda instal. Beberapa pilihan seperti Apache dan PHP adalah bagian penting untuk menjalankan website dan akan otomatis diinstal. Silakan centang MySQL dan phpMyAdmin, untuk pilihan lainnya biarkan saja.
 
 ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/11293c07-2ce8-491b-ad6c-c77b27c28559)
 
