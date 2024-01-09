@@ -4,7 +4,7 @@ author_profile: false
 excerpt: "Git adalah perangkat lunak yang digunakan untuk mengelola versi source code program. Git merupakan kepanjangan dari Group Inclusive Tour."
 breadcrumbs: true
 header:
-  teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/5a30a928-0ced-4c67-8b09-8e3519905cf4"
+  teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/73747f80-9095-4a16-8bb2-cccd9f40fc46"
 last_modified_at: 2024-01-08T:00:00-01:00
 categories:
   - Software
@@ -18,7 +18,7 @@ comments: true
 show_date: true
 ---
 
-![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/24cbeba4-6433-4449-8410-755acf187f0e)
+![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/5b713303-d2fb-4fa1-bfa2-3632fa88ee93)
 
 # Pengertian GIT
 Git adalah sebuah version control system yang digunakan oleh para developer untuk mengembangkan software secara bersamaan. Fungsi utama dari Git adalah mengatur versi source code program dengan memberikan tanda baris serta code mana yang perlu ditambah ataupun diganti.
