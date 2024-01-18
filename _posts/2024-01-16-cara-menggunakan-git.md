@@ -7,7 +7,7 @@ header:
   teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/14c48bb6-cf27-420a-b694-218a6d3fc27c"
 last_modified_at: 2024-01-16T:00:00-01:00
 categories:
-  - Software
+  - Learn
 tags:
   - GIT
   - Konfigurasi
