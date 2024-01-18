@@ -1,27 +1,30 @@
-# Minimal Mistakes remote theme starter
+<p align="center">
+  <a href=""><img height="120" src="assets/images/stationery.png"></a>
+</p>
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+<p align="center">
+  <a href="https://github.com/Julius-Ulee/School-Programs/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+  <a href="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/702971902/week.md"><img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/702971902/badge.svg"></a>
+  <a href="https://jekyllrb.com/"><img src="https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg"></a>
+  <a href="https://rubygems.org/gems/minimal-mistakes-jekyll"><img src="https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg"></a>
+</p>
 
-Contains basic configuration to get you a site with:
+## Tentang School Programs <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png">
+Kami pengembang teknologi yang berkomitmen meretas masa depan melalui inovasi teknologi untuk solusi tantangan global. Kami siap memimpin perubahan melalui riset, pengembangan, dan implementasi teknologi terdepan.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+Pada intinya, kami adalah tim pengembang, dan siswa yang bersemangat yang berdedikasi untuk membantu pengguna mempelajari pemrograman dengan mudah. Misi kami adalah menyediakan sumber daya pemrograman yang akurat, praktis, dan mudah dipahami sehingga memungkinkan pengguna kami memasuki pasar kerja dengan percaya diri.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+## Cara kontribusi
+Anda ingin menyumbangkan tulisan? Baguslah kalau begitu. Caranya gampang,
 
----
+1. [Fork](https://github.com/Julius-Ulee/School-Programs/fork) repository ini menjadi repository Anda sendiri
+2. Clone ke local untuk diedit
+3. Editlah sesuka hati
+4. Commit dan push ke repository Anda sendiri
+5. Kirim pull request ke saya dan jelaskan apa saja yang ditambah supaya bisa saya merge ke repository saya
 
-## Troubleshooting
+Lihat lebih lanjut agar Anda bisa [configurasi](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+## License
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+- Code: [MIT license](https://opensource.org/licenses/MIT).
