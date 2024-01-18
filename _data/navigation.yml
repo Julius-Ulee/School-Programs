@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Books"
-    url: /bookss/
+    url: /books/
   - title: "Articles"
     url: /posts/
   - title: "Categories"
