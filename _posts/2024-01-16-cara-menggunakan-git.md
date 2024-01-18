@@ -17,11 +17,10 @@ comments: true
 show_date: true
 ---
 
-Git adalah sistem kontrol versi terdistribusi yang menggunakan pendekatan peer to peer. Subversion hanya menggunakan nama pengguna untuk setiap penerapan, sementara Git menyimpan nama asli dan alamat email.
-
 ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/d3f0d94e-b820-480c-a8b7-9bd90908cb2e)
 
 # Menggunakan Git dengan SVN
+Git adalah sistem kontrol versi terdistribusi yang menggunakan pendekatan peer to peer. Subversion hanya menggunakan nama pengguna untuk setiap penerapan, sementara Git menyimpan nama asli dan alamat email.
 
 ## Perbedaan arsitektur dengan svn
 - **SVN**  
