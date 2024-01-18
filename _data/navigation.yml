@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Courses"
-    url: /courses/
+  - title: "Books"
+    url: /bookss/
   - title: "Articles"
     url: /posts/
   - title: "Categories"
