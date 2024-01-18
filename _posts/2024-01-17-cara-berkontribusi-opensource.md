@@ -18,6 +18,7 @@ show_date: true
 ---
 
 # Berkontribusi di Proyek git
+![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/f47c9140-0cb4-48ca-a5fe-829dfc3592ce)
 
 ----
 ## Latar belakang
