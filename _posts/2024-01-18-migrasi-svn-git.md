@@ -11,13 +11,10 @@ categories:
 tags:
   - GIT
   - Konfigurasi
-toc: true
-toc_sticky: true
 comments: true
 show_date: true
 ---
 
-# Langkah Migrasi dari Subversion ke Git
 ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/f47c9140-0cb4-48ca-a5fe-829dfc3592ce)
 
 1. Dump repository Subversion
