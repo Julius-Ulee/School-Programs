@@ -146,4 +146,4 @@ Bagian akhir ini kembali menegaskan tema cinta, benci, balas dendam, terkenal, u
 
 Penting untuk diingat bahwa interpretasi lirik lagu bisa bervariasi, dan pendengar yang berbeda mungkin mengambil makna yang sedikit berbeda pula. Lirik lagu memiliki keindahan dalam memberikan koneksi pribadi dan resonansi emosional, jadi jangan ragu untuk menafsirkan lirik tersebut berdasarkan pengalaman dan perspektif Anda sendiri.
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=3fHqZoCyRBY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3fHqZoCyRBY?si=wkiqBZ9W4uDNS03T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
