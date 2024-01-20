@@ -16,71 +16,71 @@ sidebar:
   - title: "Lyrics Catalyst. - Weird Genius (ft. Pepita)"
     image: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/7056c53b-bdb8-47ca-84a4-93424fa5fabd"
     image_alt: "image"
-    text: "Born as a king\n
-Living the dream\n
-Lost it all\n
+    text: "Born as a king\n\n
+Living the dream\n\n
+Lost it all\n\n
 To fake rings and wings\n\n
 
-The king was found dead\n
-Nothing could protect\n
-Demanded from\n
+The king was found dead\n\n
+Nothing could protect\n\n
+Demanded from\n\n
 The streetless queen\n\n
 
-Love, hate\n
-I am vengeance\n
-Fame, money\n
-Power and greed\n
-Truth, lies\n
-By a woman\n
-Say my name\n
+Love, hate\n\n
+I am vengeance\n\n
+Fame, money\n\n
+Power and greed\n\n
+Truth, lies\n\n
+By a woman\n\n
+Say my name\n\n
 The heaven’s seven sins\n\n
 
-The king has resurrected\n
-Rose up from the ashes\n
-Oh, my lord\n
-Pull out the sword\n
+The king has resurrected\n\n
+Rose up from the ashes\n\n
+Oh, my lord\n\n
+Pull out the sword\n\n
 She killed the ghost\n\n
 
-A son has fallen down\n
-In the shrine of the sun\n
-Goddess, sing this song\n
+A son has fallen down\n\n
+In the shrine of the sun\n\n
+Goddess, sing this song\n\n
 When the devil's not in luck\n\n
 
-Fatherless man\n
-But his mom took the blessing\n
-From the fairy that cursed\n
+Fatherless man\n\n
+But his mom took the blessing\n\n
+From the fairy that cursed\n\n
 His life\n\n
 
-The king has resurrected\n
-Rose up from the ashes\n
-Oh, my lord\n
-Pull out the sword\n
+The king has resurrected\n\n
+Rose up from the ashes\n\n
+Oh, my lord\n\n
+Pull out the sword\n\n
 She killed the ghost\n\n
 
-The king has resurrected\n
-Rose up from the ashes\n
-Oh, my lord\n
+The king has resurrected\n\n
+Rose up from the ashes\n\n
+Oh, my lord\n\n
 Pull out the sword\n\n
 
 (I am the ghost)\n\n
 
-Love, hate\n
-I am vengeance\n
-Fame, money\n
-Power and greed\n
-Truth, lies\n
-By a woman\n
-Say my name\n
+Love, hate\n\n
+I am vengeance\n\n
+Fame, money\n\n
+Power and greed\n\n
+Truth, lies\n\n
+By a woman\n\n
+Say my name\n\n
 The heaven’s seven sins\n\n
 
-Love, hate\n
-I am vengeance\n
-Fame, money\n
-Power and greed\n
-Truth, lies\n
-By a woman\n
-Say my name\n
-The heaven’s seven sins\n"
+Love, hate\n\n
+I am vengeance\n\n
+Fame, money\n\n
+Power and greed\n\n
+Truth, lies\n\n
+By a woman\n\n
+Say my name\n\n
+The heaven’s seven sins"
 ---
 
 ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/48d80d08-8b31-496d-be59-e2e3d662a295)
