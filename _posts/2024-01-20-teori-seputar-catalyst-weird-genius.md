@@ -41,7 +41,6 @@ Oh, my lord<br>
 Pull out the sword<br>
 She killed the ghost<br><br>
 
-
 A son has fallen down<br>
 In the shrine of the sun<br>
 Goddess, sing this song<br>
