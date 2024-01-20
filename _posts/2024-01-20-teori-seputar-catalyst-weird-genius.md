@@ -11,6 +11,8 @@ categories:
   - Music
 tags:
   - Teori
+  - Catalyst
+  - Weird Genius
 comments: true
 sidebar:
   - title: "Lyrics Catalyst. - Weird Genius (ft. Pepita)"
@@ -83,6 +85,8 @@ Say my name<br>
 The heaven’s seven sins"
 ---
 
+Teori Menurut School Programs
+
 ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/48d80d08-8b31-496d-be59-e2e3d662a295)
 
 Lahir sebagai seorang raja<br>
@@ -146,3 +150,87 @@ Bagian akhir ini kembali menegaskan tema cinta, benci, balas dendam, terkenal, u
 Penting untuk diingat bahwa interpretasi lirik lagu bisa bervariasi, dan pendengar yang berbeda mungkin mengambil makna yang sedikit berbeda pula. Lirik lagu memiliki keindahan dalam memberikan koneksi pribadi dan resonansi emosional, jadi jangan ragu untuk menafsirkan lirik tersebut berdasarkan pengalaman dan perspektif Anda sendiri.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3fHqZoCyRBY?si=wkiqBZ9W4uDNS03T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Weird Genius, the trailblazing Indonesian electronic trio drops their latest track, "Catalyst," featuring the mesmerizing vocals of Pepita. The song merges choir, classical, seriosa, and electronic elements into a sonic masterpiece. “Catalyst" is more than just a song; it's a story of resilience and triumph. Pepita's emotive delivery weaves seamlessly with electronic beats, creating a powerful fusion.
+
+Composer: Reza Oktovian, Roy Leonard, Eka Gustiwana<br>
+Lyrics: Reza Oktovian (YB)<br>
+Mixing & Mastering: Dhandy Annora<br>
+Choir Group: Voix de la Vie<br>
+Choir Arr: Daniel Thamrin<br>
+Sopran: Gloria Tania Mutiara Smith, Christine Tobing<br>
+Alto: Rosa Aliandoe, Maureen Marvin<br>
+Tenor: Ajunk, Bayu R. Bonaventura<br>
+Bass: Marthin Tupanno, Hari Santosa<br>
+
+Produced by : Pandaxx Production<br>
+Written by : YB<br>
+Director: YB & Creamypandaxx<br>
+Line Pro: Niki Kun<br>
+PA: Ajeng Niramaya<br>
+Asst Director : Raya Gumelar<br>
+2nd AD: Muslimatur Rosyiidah<br>
+DOP: Taufik Akbar<br>
+VFX : Yaanaako<br>
+Editor : Creamypandaxx & YB<br>
+1st Ascam: Boyang Pratama<br>
+Cam Guard: Jeremy<br>
+Camboy: Paisal<br>
+Gaffer: Rizal<br>
+Crew Light: Fajar, Rafli, Dipa, Shancez, Iwan, Bima<br>
+Lighting Guard: Bhewok<br>
+Art Dir: Vicky Pratama Putra<br>
+Asst. Art Dir: Fahmi<br>
+Props Master: Febi<br>
+Props Buyer: Iwan<br>
+Art Standby Set: Jarwo, Adi, Ami<br>
+Art Dresser: Akung, Jocong, Dika<br>
+Unit: Dwi Putra<br>
+DIT: Adly Ramadhan<br>
+Behind The Scene : Antonius Pasca<br>
+Makeup: Rizqa Nisa<br>
+Makeup team:<br>
+Titania Fadhilah<br>
+Rafha Liyana<br>
+Pepita Stylist : Saint Davin<br>
+Wardrobe: Titin Saputri<br>
+Wardrobe team: Rika Oktavia<br>
+Talco: Aditya nugraha putra<br>
+Talco Team:<br>
+nikmatullah edvartha<br>
+Aditya sasono<br>
+Rayhan dwi putra<br>
+Sling team: Piranha Stunt Muhammad Yazid<br>
+Production Team: Arif Mulyadi, Guns, Uci<br>
+
+Cast Talent
+- Bertrand Tio
+- APHANGVANVAN
+- Andre farhan ETERNALS
+- Andri raihan WESTJV
+- Charlenne Priscilla
+- April ZIRIUS
+- Monica Setiawan
+- Vania TOXIC GIRLS
+- Kenny ZIRIUS 
+- ThanniaNana
+- Iwan
+- M. Karim
+- Nasrullah
+- Ade BR
+- Riki
+- Ali Sodikin
+- Nanang
+- Marsel
+- Steven
+- Kamal
+- Amri
+- Ready
+- Saihotan
+- Ricky
+- Wer-wer
+- Rudy
+- Muklis
+- Rini
+- Dede
+- Nur Hasanah
