@@ -80,7 +80,7 @@ Power and greed\n
 Truth, lies\n
 By a woman\n
 Say my name\n
-The heaven’s seven sins"\n
+The heaven’s seven sins\n"
 ---
 
 ![image](https://github.com/Julius-Ulee/School-Programs/assets/61336116/48d80d08-8b31-496d-be59-e2e3d662a295)
