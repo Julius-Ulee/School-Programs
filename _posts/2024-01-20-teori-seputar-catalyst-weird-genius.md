@@ -1,5 +1,5 @@
 ---
-title: "Teori Seputar Catalyst. - Weird Genius (ft. Pepita)"
+title: "Lyrics dan Teori Seputar Catalyst. - Weird Genius (ft. Pepita)"
 author_profile: false
 excerpt: "Teori Menurut School Programs"
 last_modified_at: 2024-01-20T12:00:00-05:00
