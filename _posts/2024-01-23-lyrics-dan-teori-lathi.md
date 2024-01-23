@@ -101,8 +101,6 @@ Penting untuk dicatat bahwa interpretasi lirik dapat bersifat subjektif, dan pen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8uy7G2JXVSA?si=i3b1C_FQXPChxZgr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Weird Genius, the trailblazing Indonesian electronic trio drops their latest track, "Catalyst," featuring the mesmerizing vocals of Pepita. The song merges choir, classical, seriosa, and electronic elements into a sonic masterpiece. “Catalyst" is more than just a song; it's a story of resilience and triumph. Pepita's emotive delivery weaves seamlessly with electronic beats, creating a powerful fusion.
-
 MV Credits:<br>
 Director: Reza Oktovian & Creamypandaxx<br>
 Editor: Creamypandaxx & Reza Oktovian<br>
