@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
 last_modified_at: 2023-10-29T:00:00-01:00
 categories:
-  - Laptop
+  - Article
 tags:
   - Sejarah
   - Teknologi
