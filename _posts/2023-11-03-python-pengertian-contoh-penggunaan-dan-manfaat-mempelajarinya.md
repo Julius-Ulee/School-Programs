@@ -5,7 +5,7 @@ excerpt: "Bahasa pemrograman adalah tool yang wajib dikuasai oleh para programme
 breadcrumbs: true
 header:
   teaser: "https://www.dicoding.com/blog/wp-content/uploads/2023/05/BLOG-BANNER-31-Mei-2023-Banner-Blog-Python_-Pengertian-Contoh-Penggunaan-dan-Manfaat-Mempelajarinya.jpg"
-last_modified_at: 2023-01-27T:00:00-01:00
+last_modified_at: 2024-01-27T:00:00-01:00
 categories:
   - Article
 tags:
