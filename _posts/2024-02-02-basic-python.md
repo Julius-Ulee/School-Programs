@@ -22,10 +22,11 @@ show_date: true
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/teaser/teaser-sejarah-laptop.png" alt="pandoc">
 </figure>
 
+```py
 # Ini Buat Ngenampilin ke Layar output(terminal) 
 # dengan perintah Print()
 
-print("Julius")
+print("Agus Kurniawan")
 print("Start Python Shegi-Developer")
 
 # Mendeklarasikan Variabel dan Menampilkan di layar terminal
@@ -66,3 +67,4 @@ print(" Data String : ", data_str, type(data_str))
 print('-----------------------------------------')
 print('-----------------from--------------------')
 print('----------- shegi-developer -------------')
+```
