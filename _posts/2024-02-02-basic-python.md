@@ -12,15 +12,9 @@ categories:
   - Python
 tags:
   - Learn
-toc: true
-toc_sticky: true
 comments: true
 show_date: true
 ---
-
-<figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/teaser/teaser-sejarah-laptop.png" alt="pandoc">
-</figure>
 
 ```py
 # Ini Buat Ngenampilin ke Layar output(terminal) 
