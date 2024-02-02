@@ -4,7 +4,7 @@ author_profile: false
 excerpt: "Python adalah bahasa pemrograman komputer yang serbaguna dan dapat digunakan untuk berbagai jenis program. Python dapat digunakan untuk membangun situs, software/aplikasi, mengotomatiskan tugas, dan melakukan analisis data."
 breadcrumbs: true
 header:
-  teaser: "/assets/images/teaser/teaser-sejarah-laptop.png"
+  teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/5d588504-081b-4da7-8e83-fc3ed7af8736"
   overlay_image: /assets/images/teaser/teaser-sejarah-laptop.png
   overlay_filter: 0.5
 last_modified_at: 2024-02-02T:00:00-01:00
