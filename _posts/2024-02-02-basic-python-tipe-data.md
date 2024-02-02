@@ -7,7 +7,7 @@ header:
   teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/5d588504-081b-4da7-8e83-fc3ed7af8736"
   overlay_image: /assets/images/teaser/teaser-sejarah-laptop.png
   overlay_filter: 0.5
-last_modified_at: 2024-02-03T:00:00-01:00
+last_modified_at: 2024-02-02T:00:00-01:00
 categories:
   - Python
 tags:
