@@ -1,5 +1,5 @@
 ---
-title: "Basic Python #1"
+title: "Dasar-Dasar Penggunaan Python: Output, Variabel, dan Jenis Data"
 author_profile: false
 excerpt: "Python adalah bahasa pemrograman komputer yang serbaguna dan dapat digunakan untuk berbagai jenis program. Python dapat digunakan untuk membangun situs, software/aplikasi, mengotomatiskan tugas, dan melakukan analisis data."
 breadcrumbs: true
@@ -16,19 +16,27 @@ comments: true
 show_date: true
 ---
 
+# 1. Output ke Layar dengan print()
 ```py
 # Ini Buat Ngenampilin ke Layar output(terminal) 
 # dengan perintah Print()
 
-print("Agus Kurniawan")
-print("Start Python Shegi-Developer")
+print("Julius Ulee")
+print("Start Python me Ulee")
 
+```
+
+# 2. Variabel dan Operasi Matematika
+```py
 # Mendeklarasikan Variabel dan Menampilkan di layar terminal
 
 Nilai_a = 10
 Nilai_b = 10
 print("Hasil tambah Nilai a dan b = ", Nilai_a + Nilai_b)
+```
 
+# 3. Jenis Data pada Python
+```py
 # Berikut Penjelasan TypeData pada Phyton
 
 # Ini Adalah type data Integer yang dapat menampung angka satuan puluhan bahkan jutaan
@@ -40,13 +48,16 @@ ini_float = 10.1
 print("Ini data float : ", ini_float, " Dengan type data ",type(ini_float))
 
 # Ini Adalah type data String yang dapat menampung karakter(huruf,angka,apapun yang ada di keyboard)
-ini_string = "Agus Kurniawan"
+ini_string = "Julius Ulee"
 print("Nama Saya : ", ini_string, " Dengan type data : ",type(ini_string))
 
 # Ini Adalah type data Boolean yang menampung nilai true(benar) dan false(salah)
 ini_boolean = True
 print("Hasil nya adalah true(benar) , ", ini_boolean, " Dengan type data ", type(ini_boolean))
+```
 
+# 4. Konversi Type Data
+```py
 # Konversi type data Misal String ke integer ataupun sebaliknya 
 
 data_int = 10
@@ -57,8 +68,11 @@ print(" Data Float : ", data_float, type(data_float))
 
 data_str = str(data_float)
 print(" Data String : ", data_str, type(data_str))
+```
 
+# 5. Penutup
+```py
 print('-----------------------------------------')
 print('-----------------from--------------------')
-print('----------- shegi-developer -------------')
+print('-------------- me Ulee ------------------')
 ```
