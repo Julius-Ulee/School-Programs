@@ -1,5 +1,5 @@
 ---
-title: "Dasar-Dasar Penggunaan Python: Output, Variabel, dan Jenis Data"
+title: "Pengenalan Dasar Python: Variabel, Tipe Data, dan Operasi Dasar"
 author_profile: false
 excerpt: "Python adalah bahasa pemrograman komputer yang serbaguna dan dapat digunakan untuk berbagai jenis program. Python dapat digunakan untuk membangun situs, software/aplikasi, mengotomatiskan tugas, dan melakukan analisis data."
 breadcrumbs: true
@@ -16,59 +16,71 @@ comments: true
 show_date: true
 ---
 
-# 1. Output ke Layar dengan print()
+# 1. Output ke Layar Terminal
 ```py
-# Ini Buat Ngenampilin ke Layar output(terminal) 
-# dengan perintah Print()
-
+# Output ke Layar Terminal
 print("Julius Ulee")
 print("Start Python me Ulee")
-
 ```
+Dua pernyataan print() digunakan untuk menampilkan teks "Julius Ulee" dan "Start Python me Ulee" di layar terminal.
 
-# 2. Variabel dan Operasi Matematika
+# 2. Variabel dan Operasi Dasar
 ```py
-# Mendeklarasikan Variabel dan Menampilkan di layar terminal
-
+# Variabel dan Operasi Dasar
 Nilai_a = 10
 Nilai_b = 10
 print("Hasil tambah Nilai a dan b = ", Nilai_a + Nilai_b)
 ```
+Variabel Nilai_a dan Nilai_b dideklarasikan dengan nilai 10. Kemudian, hasil penjumlahan keduanya ditampilkan menggunakan print().
 
-# 3. Jenis Data pada Python
+# 3. Tipe Data pada Python
+**a. Integer**
+
 ```py
-# Berikut Penjelasan TypeData pada Phyton
-
-# Ini Adalah type data Integer yang dapat menampung angka satuan puluhan bahkan jutaan
+# Integer: Menampung angka satuan, puluhan, bahkan jutaan
 ini_integer = 100
 print("Ini data Integer : ", ini_integer, " Dengan type data ", type(ini_integer))
 
-# Ini Adalah type data float yang dapat menampung angka berbentuk desimal
-ini_float = 10.1
-print("Ini data float : ", ini_float, " Dengan type data ",type(ini_float))
-
-# Ini Adalah type data String yang dapat menampung karakter(huruf,angka,apapun yang ada di keyboard)
-ini_string = "Julius Ulee"
-print("Nama Saya : ", ini_string, " Dengan type data : ",type(ini_string))
-
-# Ini Adalah type data Boolean yang menampung nilai true(benar) dan false(salah)
-ini_boolean = True
-print("Hasil nya adalah true(benar) , ", ini_boolean, " Dengan type data ", type(ini_boolean))
 ```
+Menggunakan variabel ini_integer untuk menunjukkan tipe data integer yang dapat menampung angka satuan, puluhan, bahkan jutaan.
+
+**b. Float**
+```py
+# Float: Menampung angka desimal
+ini_float = 10.1
+print("Ini data float : ", ini_float, " Dengan type data ", type(ini_float))
+```
+Menggunakan variabel ini_float untuk menunjukkan tipe data float yang dapat menampung angka desimal.
+
+**c. String**
+```py
+# String: Menampung karakter (huruf, angka, atau simbol)
+ini_string = "Agus Kurniawan"
+print("Nama Saya : ", ini_string, " Dengan type data : ", type(ini_string))
+```
+Menggunakan variabel ini_string untuk menunjukkan tipe data string yang dapat menampung karakter, termasuk huruf, angka, atau simbol.
+
+**d. Boolean**
+```py
+# Boolean: Menampung nilai true (benar) atau false (salah)
+ini_boolean = True
+print("Hasilnya adalah true(benar) , ", ini_boolean, " Dengan type data ", type(ini_boolean))
+```
+Menggunakan variabel ini_boolean untuk menunjukkan tipe data boolean yang hanya dapat memiliki nilai true atau false.
 
 # 4. Konversi Type Data
 ```py
-# Konversi type data Misal String ke integer ataupun sebaliknya 
-
+# Konversi Tipe Data
 data_int = 10
-print(" Data Integer : ", data_int, type(data_int))
+print("Data Integer : ", data_int, type(data_int))
 
 data_float = float(data_int)
-print(" Data Float : ", data_float, type(data_float))
+print("Data Float : ", data_float, type(data_float))
 
 data_str = str(data_float)
-print(" Data String : ", data_str, type(data_str))
+print("Data String : ", data_str, type(data_str))
 ```
+Menunjukkan contoh konversi tipe data, seperti mengubah tipe data integer menjadi float dan kemudian menjadi string.
 
 # 5. Penutup
 ```py
@@ -76,3 +88,4 @@ print('-----------------------------------------')
 print('-----------------from--------------------')
 print('-------------- me Ulee ------------------')
 ```
+Pernyataan penutup menampilkan garis pemisah dan mencantumkan sumber (shegi-developer). Ini memberikan kesan akhir dari materi pengenalan dasar Python ini.
