@@ -1,5 +1,5 @@
 ---
-title: "Basic Python"
+title: "Basic Python #1"
 author_profile: false
 excerpt: "Python adalah bahasa pemrograman komputer yang serbaguna dan dapat digunakan untuk berbagai jenis program. Python dapat digunakan untuk membangun situs, software/aplikasi, mengotomatiskan tugas, dan melakukan analisis data."
 breadcrumbs: true
