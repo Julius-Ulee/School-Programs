@@ -28,7 +28,7 @@ comments:
 search: true
 logo: "/assets/images/favicon.ico"
 url: https://julius-ulee.github.io
-baseurl: "/School-Programs"
+baseurl: "/"
 repository: "Julius-Ulee/School-Programs"
 
 # Build settings
