@@ -1,5 +1,5 @@
 ---
-title: "Pemahaman Mendalam tentang Operasi Logika dan Boolean dalam Python"
+title: "Komparasi dan Logika pada Python"
 author_profile: false
 excerpt: "Dalam pemrograman, seringkali kita perlu membandingkan nilai-nilai atau mengevaluasi kebenaran suatu kondisi. Python menyediakan operator perbandingan dan operator logika yang memungkinkan kita untuk melakukan tugas-tugas tersebut dengan mudah."
 breadcrumbs: true
