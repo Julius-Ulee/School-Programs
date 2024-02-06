@@ -24,12 +24,12 @@ minimal_mistakes_skin: dirt
 comments:
   provider: "disqus"
   disqus:
-    shortname: "julius-ulee-github-io"
+    shortname: "schoolprograms.my.id"
 search: true
 logo: "/assets/images/favicon.ico"
-url: https://julius-ulee.github.io
-baseurl: "schoolprograms.my.id"
-repository: "Julius-Ulee/School-Programs"
+url: ""
+baseurl: ""
+repository: ""
 
 # Build settings
 markdown: kramdown
