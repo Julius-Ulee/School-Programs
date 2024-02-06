@@ -11,8 +11,6 @@ categories:
 tags:
   - Cisco
   - Network
-toc: true
-toc_sticky: true
 comments: true
 show_date: true
 ---
