@@ -24,7 +24,7 @@ minimal_mistakes_skin: dirt
 comments:
   provider: "disqus"
   disqus:
-    shortname: "schoolprograms.my.id"
+    shortname: "julius-ulee-github-io"
 search: true
 logo: "/assets/images/favicon.ico"
 url: ""
