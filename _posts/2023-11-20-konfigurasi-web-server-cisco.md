@@ -5,14 +5,12 @@ excerpt: "Web server adalah perangkat lunak (software) yang berfungsi sebagai pe
 breadcrumbs: true
 header:
   teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/15248aa3-6231-44bd-882f-c3bc103a9854"
-last_modified_at: 2023-11-20T:00:00-01:00
+last_modified_at: 2024-02-07T:00:00-01:00
 categories:
   - Computer
 tags:
   - Cisco
   - Network
-toc: true
-toc_sticky: true
 comments: true
 show_date: true
 ---
