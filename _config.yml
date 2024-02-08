@@ -28,8 +28,8 @@ comments:
 search: true
 logo: "/assets/images/favicon.ico"
 url: ""
-baseurl: ""
-repository: ""
+baseurl: "https://schoolprograms.my.id"
+repository: "Julius-Ulee/School-Programs"
 
 # Build settings
 markdown: kramdown
