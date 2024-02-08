@@ -27,8 +27,8 @@ comments:
     shortname: "julius-ulee-github-io"
 search: true
 logo: "/assets/images/favicon.ico"
-url: ""
-baseurl: "https://schoolprograms.my.id"
+url: "https://schoolprograms.my.id"
+baseurl: ""
 repository: "Julius-Ulee/School-Programs"
 
 # Build settings
