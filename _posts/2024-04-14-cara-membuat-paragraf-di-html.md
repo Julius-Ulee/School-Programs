@@ -1,5 +1,5 @@
 ---
-title: "Cara Membuat Paragraf di HTML"
+title: "Cara Lengkap Membuat Paragraf di HTML"
 author_profile: false
 excerpt: "Setelah belajar tentang apa itu HTML, Tag, Elemen, dan Atribut. Berikutnya, kita akan belajar tentang elemen-elemen dasar pada HTML yang sering digunakan dalam membuat web."
 header:
