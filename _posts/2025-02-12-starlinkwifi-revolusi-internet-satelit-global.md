@@ -15,6 +15,9 @@ toc: true
 toc_sticky: true
 show_date: true
 ---
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/teaser/starlink.jpg" alt="html">
+</figure> 
 ## Apa Itu Starlink?
 
 Starlink adalah layanan internet berbasis satelit yang dikembangkan oleh **SpaceX**, perusahaan teknologi luar angkasa milik Elon Musk. Proyek ini bertujuan untuk menyediakan akses internet berkecepatan tinggi dan latensi rendah ke seluruh dunia, termasuk daerah terpencil yang sulit dijangkau oleh infrastruktur internet tradisional.
