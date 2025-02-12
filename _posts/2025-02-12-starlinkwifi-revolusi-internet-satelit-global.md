@@ -3,7 +3,7 @@ title: "Starlink WiFi: Revolusi Internet Satelit Global"
 author_profile: false
 excerpt: "Starlink WiFi adalah layanan internet berbasis satelit dari SpaceX yang menawarkan koneksi berkecepatan tinggi dan latensi rendah, terutama untuk daerah terpencil. Dengan menggunakan ribuan satelit di Low Earth Orbit (LEO), Starlink memberikan akses internet yang lebih stabil dibandingkan satelit konvensional. Meskipun memiliki keunggulan seperti cakupan global dan kemudahan pemasangan, layanan ini masih menghadapi tantangan seperti harga yang tinggi dan gangguan cuaca. Namun, Starlink terus berkembang dan berpotensi menjadi solusi revolusioner dalam menjembatani kesenjangan digital di seluruh dunia."
 header:
-  teaser: "https://github.com/user-attachments/assets/664bb40d-8990-4a36-8a5c-3e7f43a926a0"
+  teaser: "https://github.com/Julius-Ulee/School-Programs/assets/61336116/664bb40d-8990-4a36-8a5c-3e7f43a926a0"
 last_modified_at: 2025-02-12T17:00:02-05:00
 breadcrumbs: true
 categories:
