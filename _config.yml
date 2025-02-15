@@ -26,6 +26,13 @@ comments:
   disqus:
     shortname: "julius-ulee-github-io"
 search: true
+search_full_content: true
+search_provider: algolia
+algolia:
+  application_id: OFEPETCMLI
+  index_name: School-Programs
+  search_only_api_key: 52e3d4326b143f0770b48aaa0a2e4ff5
+  powered_by: false
 logo: "/assets/images/favicon.ico"
 url: "https://schoolprograms.my.id"
 baseurl: ""
